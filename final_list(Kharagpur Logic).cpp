@@ -75,9 +75,6 @@ int main()
         }
         remaining_teams = remaining_teams2 ;
     }
-    reverse(final_list.begin() , final_list.end()) ;
-    final_list.pop_back() ;
-    reverse(final_list.begin() , final_list.end()) ;
     int final_rank = 1 ;
     cout << setw(5) << "RANK" << setw(10) << "TEAM" << setw(20) << "COLLEGE\n";
     for(auto &entry : final_list) {
