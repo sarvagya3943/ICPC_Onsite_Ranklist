@@ -76,10 +76,10 @@ int main()
     }
     for(auto &entry : remaining_teams) {
         int col_index = map_college_to_index[entry.second.second] ;
-        if(taken[col_index] == 12) {
+        if(teams_taken[col_index] == 12) {
             continue ;
         }
-        taken[col_index] += 1 ;
+        teams_taken[col_index] += 1 ;
         final_list.push_back(entry) ;
     }
     int final_rank = 1 ;
