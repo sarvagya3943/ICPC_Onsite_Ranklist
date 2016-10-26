@@ -284,1613 +284,867 @@
 283		TRIDENT|/		Delhi Technological University
 284		Bazzzinga		Indian Institute of Technology, Varanasi
 285		We are the one who knocks		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-286		incognito_N		International Institute of Information Technology, Hyderabad
-287		threeface		Delhi Technological University
-288		YouKnowWho		International Institute of Information Technology, Hyderabad
-289		Yuphoria		Netaji Subhas Institute of Technology, New Delhi
-290		VeniVidiVici		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-291		Anti-Logic		International Institute of Information Technology, Hyderabad
-292		Zero_by_Zero		Indian Institute of Information Technology, Allahabad
-293		Hopeless		Indian Institute of Technology Kharagpur
-294		SABOTEURS		National Institute of Technology Karnataka
-295		NaamMeKyaRakha		Indian Institute of Technology Mandi
-296		Sandbox		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-297		khaliJeb		Indian Institute of Information Technology, Allahabad
-298		QueensGambit		International Institute of Information Technology, Hyderabad
-299		ignatius		National Institute of Technology Warangal
-300		NITTWITS		National Institute of Technology Tiruchirappalli
-301		aar_ya_paar		Indian Institute of Technology Roorkee
-302		Kodiyapa2102		Motilal Nehru National Institute of Technology Allahabad
-303		code_warriors		Indian Institute of Technology Bombay
-304		Bond Vagabonds		International Institute of Information Technology, Hyderabad
-305		dead@coders		Motilal Nehru National Institute of Technology Allahabad
-306		n82696		Indian Institute of Technology, Varanasi
-307		IDENTITY		Birla Institute of Technology Mesra
-308		no_idea		International Institute of Information Technology, Hyderabad
-309		WaTleAc		Birla Institute of Technology Mesra
-310		Logical-Freaks		Indian Institute of Technology Delhi
-311		SourceCode		International Institute of Information Technology, Hyderabad
-312		SigSegV		International Institute of Information Technology, Hyderabad
-313		aeCodeHaiMushkil		Indian Institute of Information Technology, Allahabad
-314		chotu_chatni		Indian Institute of Information Technology, Allahabad
-315		PikaPi		Indian Institute of Technology, Varanasi
-316		factors		National Institute of Technology Warangal
-317		Brains_In_Jars		Motilal Nehru National Institute of Technology Allahabad
-318		CrazyDot		Indian Institute of Technology Patna
-319		Zen		International Institute of Information Technology, Hyderabad
-320		Less Handsome and Depressed		International Institute of Information Technology, Hyderabad
-321		shunyaB		Indian Institute of Technology Bombay
-322		package		Indian Institute of Technology Delhi
-323		Hacketh_Launde		Indian Institute of Technology, Varanasi
-324		LongTimeNoC		Indian Institute of Technology Kanpur
-325		Sab_moh_maya_hai		National Institute of Technology, Kurukshetra
-326		rohangarg		Indraprastha Institute of Information Technology, Delhi
-327		High_Rollers		Netaji Subhas Institute of Technology, New Delhi
-328		Intuition		Motilal Nehru National Institute of Technology Allahabad
-329		sui_generis		Indraprastha Institute of Information Technology, Delhi
-330		n00bs_at_code		Indian Institute of Technology Roorkee
-331		$//@G Overflow		Indian Institute of Technology Indore
-332		NAG10		Indian Institute of Technology Roorkee
-333		Trio		Indian Institute of Technology Roorkee
-334		segmentation_fault		National Institute of Technology, Jamshedpur
-335		stay_started		Maulana Azad National Institute of Technology, Bhopal
-336		FaulTLEss		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-337		Marksmen		Delhi Technological University
-338		voidmain16		Netaji Subhas Institute of Technology, New Delhi
-339		C2H4O		Indian Institute of Technology Roorkee
-340		flow_chart		National Institute of Technology, Jamshedpur
-341		ASD		Indian Institute of Technology Roorkee
-342		NestedSpectators7		International Institute of Information Technology, Hyderabad
-343		bro-code		Indian Institute of Technology Madras
-344		Zetta_byte		Indian Institute of Technology, Jodhpur
-345		nocturnal_space		Indian Institute of Technology, Varanasi
-346		smartzero		Indian School of Mines
-347		Codinate		International Institute of Information Technology, Hyderabad
-348		Magicians		Indian Institute of Technology Delhi
-349		O(logn)		Netaji Subhas Institute of Technology, New Delhi
-350		next_permutation		Delhi Technological University
-351		THE_HUMAN		Indian Institute of Information Technology, Allahabad
-352		CodeAvengers		Indian Institute of Technology Roorkee
-353		campeones		Indian Institute of Technology Roorkee
-354		Victorious Secret		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-355		PaneerPakora		Indian Institute of Technology Kanpur
-356		S9631245426		Indian School of Mines
-357		inQueue		International Institute of Information Technology, Hyderabad
-358		SuperSaiyans		Delhi Technological University
-359		jobless		Birla Institute of Technology Mesra
-360		sharpwits		Indian Institute of Technology Patna
-361		ideas_are_bulletproof		Indian Institute of Information Technology, Allahabad
-362		Coders-Kgp		Indian Institute of Technology Kharagpur
-363		Paradigm		Indian Institute of Technology Delhi
-364		dunedain		International Institute of Information Technology, Hyderabad
-365		k3rn3l_panic		Indian Institute of Technology Indore
-366		Loophole		Netaji Subhas Institute of Technology, New Delhi
-367		You just read the team name		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-368		Naruto		Birla Institute of Technology Mesra
-369		GameChangers		Indian Institute of Technology Roorkee
-370		three_bits		Indian Institute of Technology, Varanasi
-371		Turing_Machine		Motilal Nehru National Institute of Technology Allahabad
-372		GCD		Netaji Subhas Institute of Technology, New Delhi
-373		Exponential		Delhi Technological University
-374		MAH_Coders		Indian Institute of Technology, Varanasi
-375		85k_plus_accomodation		Indraprastha Institute of Information Technology, Delhi
-376		Puzzles		Netaji Subhas Institute of Technology, New Delhi
-377		Paradox_Crackers		Indian Institute of Technology, Varanasi
-378		dvr_123		Indian Institute of Technology, Varanasi
-379		treeBitsians		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-380		How_U_Doin		Indian School of Mines
-381		407 Crew		Indraprastha Institute of Information Technology, Delhi
-382		backslashn		Motilal Nehru National Institute of Technology Allahabad
-383		Dark_Matter		Indian Institute of Technology Delhi
-384		InjuredLions		Indian Institute of Technology Roorkee
-385		deadlock		Indian Institute of Technology Roorkee
-386		AedhoOnnuVei		Birla Institute of Technology &amp; Science Pilani, Goa Campus
-387		neversatisfied		Jaypee Institute of Information Technology
-388		Bitman		International Institute of Information Technology, Hyderabad
-389		cyclictree		Indian Institute of Technology Ropar
-390		codor		Indian Institute of Technology, Varanasi
-391		DcodeDragon		Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
-392		dhondhu_just_chill		International Institute of Information Technology, Hyderabad
-393		redHack		Birla Institute of Technology Mesra
-394		no_retreat		International Institute of Information Technology, Hyderabad
-395		!nfinity		Indian Institute of Technology Bombay
-396		PiedPiper		Delhi Technological University
-397		segf		Indian Institute of Technology Kharagpur
-398		abc.wtf		Birla Institute of Technology Mesra
-399		face_less_men		Indian Institute of Technology Kharagpur
-400		Fusion		Birla Institute of Technology Mesra
-401		SuperTramp		Indian Institute of Technology Roorkee
-402		H+A+M		Jamia Millia Islamia
-403		Maniac_reloaded		Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
-404		void_maniacs		Indian Institute of Technology Kharagpur
-405		MemoryLeak		Indian Institute of Technology Madras
-406		Phoenix_		Indian Institute of Technology Indore
-407		Bug Busters		Indian Institute of Technology Madras
-408		2016_cse_iitb_Codificadores		Indian Institute of Technology Bombay
-409		trie_again		International Institute of Information Technology, Hyderabad
-410		hash		Birla Institute of Technology Mesra
-411		IIITD GNU		Indraprastha Institute of Information Technology, Delhi
-412		iFilter		Indian Institute of Technology Kharagpur
-413		basic_coders		Indian Institute of Technology Kharagpur
-414		Alpha_Q		Indian Institute of Technology Roorkee
-415		knightAndDay		Indian Institute of Technology Roorkee
-416		Nougat		Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
-417		kuchbhi_		Indian Institute of Technology Bombay
-418		EtTuBruteForce		Indian Institute of Technology Guwahati
-419		DoesItMatter		Indian Institute of Technology Roorkee
-420		No_Handle		Birla Institute of Technology Mesra
-421		The SegFault in Our Stars		International Institute of Information Technology, Hyderabad
-422		included		National Institute of Technology Warangal
-423		lost_code		Indian Institute of Technology, Varanasi
-424		bits_plzzz		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-425		JustForPizza		Indian Institute of Technology Bombay
-426		maniACs		International Institute of Information Technology, Hyderabad
-427		Invictus		Indian Institute of Technology Bombay
-428		XYZ		Netaji Subhas Institute of Technology, New Delhi
-429		Team Harambe		National Institute of Technology Karnataka
-430		Enfilades		Indian Institute of Technology Guwahati
-431		correct-answer		Indian Institute of Technology Kanpur
-432		UprisingRivals		Motilal Nehru National Institute of Technology Allahabad
-433		iota_decoded		Indian Institute of Technology, Varanasi
-434		Heisenberg&amp;#039;s Hitmen		Indian Institute of Technology Indore
-435		Alliance		Indian Institute of Technology Guwahati
-436		noodlez		Motilal Nehru National Institute of Technology Allahabad
-437		code_freaks		Indian Institute of Technology Guwahati
-438		COLDPLAY		Birla Institute of Technology Mesra
-439		CoreDump		Indian Institute of Technology Delhi
-440		Three_Twins		International Institute of Information Technology, Hyderabad
-441		Dream_Hackerz		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-442		maniACsB		Indian Institute of Technology Bombay
-443		Djikstrikers		Indian Institute of Technology, Hyderabad
-444		PROgrammers		Indian Institute of Technology Roorkee
-445		alphaq_		Motilal Nehru National Institute of Technology Allahabad
-446		alphabetagamma1		Indian Institute of Technology Bombay
-447		NDTM		Indian Institute of Technology Guwahati
-448		Trajectory		Indian Institute of Technology Madras
-449		SAY		International Institute of Information Technology, Hyderabad
-450		Grandmasters		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-451		Suicide_squad_iitr		Indian Institute of Technology Roorkee
-452		UnusualBanana		Maulana Azad National Institute of Technology, Bhopal
-453		Sobhad		Indian Institute of Technology Ropar
-454		ADA		Netaji Subhas Institute of Technology, New Delhi
-455		us_ac_pg		Indian Institute of Technology, Varanasi
-456		Slammer_hammer		Birla Institute of Technology Mesra
-457		Non Coders		Indian Institute of Technology Kanpur
-458		Anantham		Netaji Subhas Institute of Technology, New Delhi
-459		Breakup		Netaji Subhas Institute of Technology, New Delhi
-460		DA_CODECRACKERS		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-461		JKR		Indian Institute of Technology, Varanasi
-462		Duals		National Institute of Technology, Rourkela
-463		#include&amp;lt;rds&amp;gt;		Indian Institute of Technology, Varanasi
-464		LAZARUS		Motilal Nehru National Institute of Technology Allahabad
-465		KnightFall		Maulana Azad National Institute of Technology, Bhopal
-466		Royal_fold		Netaji Subhas Institute of Technology, New Delhi
-467		The Blueprint Coders		Netaji Subhas Institute of Technology, New Delhi
-468		bars4bits		Birla Institute of Technology &amp; Science Pilani, Goa Campus
-469		OpTiMiZe		Indian Institute of Technology Indore
-470		codavatar		Indian Institute of Technology, Hyderabad
-471		3darkoders		Motilal Nehru National Institute of Technology Allahabad
-472		Three Musketeers		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-473		Team_vegeta		International Institute of Information Technology, Hyderabad
-474		FiboNAZIs		Indian Institute of Technology Roorkee
-475		Mathturbation		International Institute of Information Technology, Hyderabad
-476		ILLUMINATI		Indian Institute of Engineering Science and Technology, Shibpur
-477		TheWereWolves		Army Institute of Technology, Pune
-478		3 Underdogs		Indian Institute of Technology Roorkee
-479		sudo_get-AC		National Institute of Technology Karnataka
-480		codeworms		International Institute of Information Technology, Hyderabad
-481		PenDrop		Netaji Subhas Institute of Technology, New Delhi
-482		crossroads		Indian Institute of Technology Bombay
-483		Invictus3		Indian Institute of Information Technology, Allahabad
-484		Epiphany		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-485		The Bogosorts		National Institute of Technology, Calicut
-486		Chill_N_Kill		National Institute of Technology Karnataka
-487		full_power		Netaji Subhas Institute of Technology, New Delhi
-488		X		Indian Institute of Technology Kharagpur
-489		!nsomniac		International Institute of Information Technology, Hyderabad
-490		Tubelight		Netaji Subhas Institute of Technology, New Delhi
-491		final_attempt		Netaji Subhas Institute of Technology, New Delhi
-492		SabSambhavHai		Indraprastha Institute of Information Technology, Delhi
-493		KnotSoFast		International Institute of Information Technology, Hyderabad
-494		codeBrewers		International Institute of Information Technology, Hyderabad
-495		cyber_dragoon		Netaji Subhas Institute of Technology, New Delhi
-496		Wikings		Indian Institute of Technology, Hyderabad
-497		DA_LearningToCode		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-498		Interstellars		Indian Institute of Engineering Science and Technology, Shibpur
-499		Valkyrie		Indian Institute of Engineering Science and Technology, Shibpur
-500		3_Horsemen		Indian Institute of Technology Roorkee
-501		Triple_S		Netaji Subhas Institute of Technology, New Delhi
-502		algomakers		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-503		dopplereffect		International Institute of Information Technology, Hyderabad
-504		Bylders		Indraprastha Institute of Information Technology, Delhi
-505		good_bad_ugly		Indian Institute of Technology, Hyderabad
-506		fake_is_a_lie		International Institute of Information Technology, Hyderabad
-507		Muggles		Netaji Subhas Institute of Technology, New Delhi
-508		DARKHH		Birla Institute of Technology Mesra
-509		stone_paper_scissors		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-510		1e18		International Institute of Information Technology, Hyderabad
-511		Hax0rs		Indian Institute of Technology Delhi
-512		code_masters		Sardar Vallabhbhai National Institute of Technology, Surat
-513		bytecode		Indian Institute of Technology Madras
-514		middleout		Sardar Vallabhbhai National Institute of Technology, Surat
-515		RESTLESS FINGERS		Netaji Subhas Institute of Technology, New Delhi
-516		kramaadeshak		Indian Institute of Technology, Hyderabad
-517		JAM		Indian Institute of Technology Guwahati
-518		Day Dreamers		International Institute of Information Technology, Hyderabad
-519		sudoCode		Indian Institute of Technology Indore
-520		newcoders		Indian Institute of Technology Kanpur
-521		ProjectX		Jaypee Institute of Information Technology
-522		the greycoders		International Institute of Information Technology, Bangalore
-523		NullByte		National Institute of Technology Karnataka
-524		Autobits		Motilal Nehru National Institute of Technology Allahabad
-525		./a.out		International Institute of Information Technology, Hyderabad
-526		Hashpi		Delhi Technological University
-527		minionsfury		International Institute of Information Technology, Hyderabad
-528		code_red		Indian Institute of Technology Roorkee
-529		CODE_GEASS		Birla Institute of Technology Mesra
-530		JARVIS		Indian Institute of Information Technology, Allahabad
-531		fanatical		Indian Institute of Information Technology, Design and Manufacturing, Jabalpur
-532		Radix		PES Institute of Technology, Bangalore
-533		super_mario		Birla Institute of Technology Mesra
-534		Te3npathas		Indian Institute of Technology, Hyderabad
-535		Rhooters		Indian Institute of Technology Guwahati
-536		nlogncoders		Indian Institute of Technology, Jodhpur
-537		Intuition		International Institute of Information Technology, Hyderabad
-538		jaldi_karr		Indian Institute of Information Technology, Allahabad
-539		Prologue		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-540		friendzoned_coders		Indian Institute of Technology Kharagpur
-541		Vectors		International Institute of Information Technology, Hyderabad
-542		codec_dtu		Delhi Technological University
-543		triplethreat		Birla Institute of Technology &amp; Science Pilani, Goa Campus
-544		black_zero		Delhi Technological University
-545		PHI		Birla Institute of Technology Mesra
-546		N88BIES		Indian Institute of Technology Roorkee
-547		Minion Module		International Institute of Information Technology, Bangalore
-548		RunTime_Xplosion		Motilal Nehru National Institute of Technology Allahabad
-549		The FlashCoders		Indian Institute of Technology Madras
-550		Code Freaks		Indian Institute of Technology Madras
-551		qwertyCo		Indian Institute of Technology Madras
-552		team7		Indian Institute of Information Technology, Allahabad
-553		Mad_hoc		Birla Institute of Technology Mesra
-554		NoAlgos		Indian Institute of Information Technology, Allahabad
-555		foo.bar		Indian Institute of Technology Bombay
-556		Bhai_da_Tashan		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-557		segmenriders2136		Indian Institute of Technology, Hyderabad
-558		Abelians		Indian Institute of Technology Guwahati
-559		Null_Qaeda		Motilal Nehru National Institute of Technology Allahabad
-560		Mafia		International Institute of Information Technology, Hyderabad
-561		LetsKillThis		Netaji Subhas Institute of Technology, New Delhi
-562		Triangle		Indian Institute of Technology, Varanasi
-563		11avengers		Netaji Subhas Institute of Technology, New Delhi
-564		Matrix		Visvesvaraya National Institute of Technology, Nagpur
-565		one_byte		Indian Institute of Technology, Varanasi
-566		CodeRangers		Indian Institute of Technology, Hyderabad
-567		Hawk		Indian Institute of Technology Roorkee
-568		apriori		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-569		Evil_Geniuses		Indian Institute of Technology, Varanasi
-570		Limbo		Indian Institute of Technology Kanpur
-571		Pilani_Pirates		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-572		Checkmate_007		Indian Institute of Information Technology, Allahabad
-573		serial_coders		Indian School of Mines
-574		mass_bunk		Indian Institute of Technology Kharagpur
-575		DBug		National Institute of Technology Silchar
-576		dotSlash		National Institute of Technology, Jamshedpur
-577		dot_rar		Motilal Nehru National Institute of Technology Allahabad
-578		HomebrewB		Indian Institute of Technology Bombay
-579		3_strangers		Maulana Azad National Institute of Technology, Bhopal
-580		b___b		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-581		Atapatu		Indraprastha Institute of Information Technology, Delhi
-582		burnHeal		Indian Institute of Technology Roorkee
-583		kuchbhi		Indian Institute of Information Technology, Allahabad
-584		vegaviralgal		Indian Institute of Technology Madras
-585		NARCOS		International Institute of Information Technology, Hyderabad
-586		Xtreme		Delhi Technological University
-587		Nameless		The LNM Institute of Information Technology, Jaipur
-588		The_minions		Indian Institute of Technology Ropar
-589		youdontknowus		Jaypee Institute of Information Technology
-590		NITRkl_TLE		National Institute of Technology, Rourkela
-591		Heuristic		Visvesvaraya National Institute of Technology, Nagpur
-592		1729		Indian Institute of Information Technology, Allahabad
-593		Bring_It_On		Netaji Subhas Institute of Technology, New Delhi
-594		the_scientists		International Institute of Information Technology, Hyderabad
-595		ProgBots		Indian Institute of Technology Roorkee
-596		lighteningtriad		Indian Institute of Technology Kanpur
-597		InternWaale		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-598		Maut_k_farishtey2.0		Netaji Subhas Institute of Technology, New Delhi
-599		i-freaks		National Institute of Technology, Calicut
-600		Dauntless		Indian Institute of Technology Delhi
-601		codeamigos2		Netaji Subhas Institute of Technology, New Delhi
-602		DOVE_TEAM		University School of Information Technology
-603		Horcrux		Indian School of Mines
-604		BUG_FREE		Indian Institute of Technology Guwahati
-605		chai_sutta		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-606		Azaad		Indian Institute of Information Technology, Allahabad
-607		clinical_finishers		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-608		Code Brains		PES Institute of Technology, Bangalore
-609		Team Phoenix		Indian Institute of Technology Roorkee
-610		Desire		Delhi Technological University
-611		6InchesOfSnow		International Institute of Information Technology, Hyderabad
-612		GoGo&amp;#039;s		Indraprastha Institute of Information Technology, Delhi
-613		Horizon		Delhi Technological University
-614		WeHateSegfault		International Institute of Information Technology, Hyderabad
-615		Awsome_Coders		Chennai Mathematical Institute
-616		teamJ		Indraprastha Institute of Information Technology, Delhi
-617		legion		National Institute of Technology Tiruchirappalli
-618		Backlash		Netaji Subhas Institute of Technology, New Delhi
-619		Inficoders		Indian Institute of Technology Bombay
-620		elpsyKnights		International Institute of Information Technology, Hyderabad
-621		illuminati503		Indian Institute of Technology Roorkee
-622		SmashTheCode		Indian Institute of Technology, Varanasi
-623		HashCode		Indian School of Mines
-624		albatross		Indian Institute of Technology Roorkee
-625		fun-coders		International Institute of Information Technology, Hyderabad
-626		THE 3 HORSEMEN		Netaji Subhas Institute of Technology, New Delhi
-627		encoders_decoders		National Institute of Technology Agartala
-628		AlphaBetaGamma		Indian Institute of Technology Roorkee
-629		brute_force		National Institute of Technology, Durgapur
-630		ninjas_in_pyjamas		Birla Institute of Technology &amp; Science Pilani, Goa Campus
-631		demodulators		Netaji Subhas Institute of Technology, New Delhi
-632		sad_coders		National Institute of Technology Agartala
-633		MINIONS		Birla Institute of Technology Mesra
-634		Winter_is_coming		Indian Institute of Information Technology, Allahabad
-635		AC Hunters		Sri Sivasubramaniya Nadar College of Engineering, Chennai
-636		core_dump		National Institute of Technology Karnataka
-637		null_pointer		Netaji Subhas Institute of Technology, New Delhi
-638		TRIPLESSS		Abes Engineering college, Ghaziabad
-639		bitece2k13		Birla Institute of Technology Mesra
-640		CodeBuilders001		Netaji Subhas Institute of Technology, New Delhi
-641		Team Heisenbug		Netaji Subhas Institute of Technology, New Delhi
-642		HARDWIRED		Birla Institute of Technology Mesra
-643		XBruteforce		Indian School of Mines
-644		ACE		Indian Institute of Technology Delhi
-645		EyeSeePSee		International Institute of Information Technology, Hyderabad
-646		CodeBroken		Indian Institute of Technology Mandi
-647		BLAZE		Indian Institute of Technology Roorkee
-648		Garbage Collectors		Indian Institute of Technology Ropar
-649		TeenDabbang		International Institute of Information Technology, Hyderabad
-650		unknowns		Indian Institute of Technology Roorkee
-651		Illusionists		Pune Institute of Computer Technology
-652		Dummy_C0d0rs		Indian Institute of Technology Kharagpur
-653		3tourists		National Institute of Technology, Calicut
-654		Re Sultan		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-655		Delimiters		Indian Institute of Technology Roorkee
-656		haonabey		Visvesvaraya National Institute of Technology, Nagpur
-657		TumseNaHoga		Jaypee Institute of Information Technology
-658		Knightriders		Birla Institute of Technology Mesra
-659		code_lover		Indian Institute of Technology, Varanasi
-660		coding_ninjas		Maulana Azad National Institute of Technology, Bhopal
-661		THE_BROGRAMMERS		Indian Institute of Information Technology, Allahabad
-662		bit_shift_		Jaypee Institute of Information Technology
-663		SAV-age		International Institute of Information Technology, Hyderabad
-664		BitBuzzers		Indian Institute of Technology Kharagpur
-665		overflow		Indian Institute of Technology Madras
-666		twisted_fate		Jaypee Institute of Information Technology
-667		PawnStars		Maulana Azad National Institute of Technology, Bhopal
-668		Jedi_knights		National Institute of Technology, Durgapur
-669		Gallifreyans		Indian Institute of Information Technology, Allahabad
-670		CodeMinions		Shri Mata Vaishno Devi University
-671		light_iitr		Indian Institute of Technology Roorkee
-672		hashcoders		Birla Institute of Technology &amp; Science Pilani, Goa Campus
-673		while(true)		SASTRA University
-674		greyish		Indian Institute of Technology Roorkee
-675		FourMinusOne		Motilal Nehru National Institute of Technology Allahabad
-676		decoders		ABV - Indian Institute of Information Technology and Management Gwalior
-677		BandofBrothers		Jaypee Institute of Information Technology
-678		PARYATAK		Indian Institute of Technology, Varanasi
-679		abs(beginners)		International Institute of Information Technology, Hyderabad
-680		codelearner		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-681		begin_loop		Indian Institute of Technology Roorkee
-682		Not_Yet		Indian Institute of Information Technology, Sri City
-683		recuri0n		National Institute of Technology Patna
-684		bitbusterz		Birla Institute of Technology Mesra
-685		NonoGogoJojo		YMCA University of Science and Technology, Faridabad
-686		RedBlack_T		National Institute of Technology Silchar
-687		Darkrai		Indian Institute of Technology Indore
-688		Surprised?		Jaypee Institute of Information Technology
-689		kins		Birla Institute of Technology &amp; Science Pilani, Goa Campus
-690		Know No Algo		Indian Institute of Technology Kanpur
-691		sparks		Delhi Technological University
-692		Blue_Coders		Manipal Institute of Technology, Manipal
-693		comingsoon		Indian Institute of Technology Kharagpur
-694		algomonks		National Institute of Technology Silchar
-695		foobit		Birla Institute of Technology Mesra
-696		DNA		ABV - Indian Institute of Information Technology and Management Gwalior
-697		CarpeNoctem		Pune Institute of Computer Technology
-698		Aam Aadmi Coders		Manipal Institute of Technology, Manipal
-699		Exceptions		Indian Institute of Technology Kharagpur
-700		mazdoorsangh		Indian Institute of Technology Kanpur
-701		lazygeeks		International Institute of Information Technology, Hyderabad
-702		A team has no name		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-703		dream_3eam		Pune Institute of Computer Technology
-704		SNUNIX		Shiv Nadar University, Chithera
-705		codo_sapiens		Motilal Nehru National Institute of Technology Allahabad
-706		Just Passed007		Motilal Nehru National Institute of Technology Allahabad
-707		random_16		Indian Institute of Technology Kharagpur
-708		soaders		Netaji Subhas Institute of Technology, New Delhi
-709		hXh		PES Institute of Technology, Bangalore
-710		binary_bandits		Jaypee Institute of Information Technology
-711		lite_max		Birla Institute of Technology &amp; Science Pilani, Goa Campus
-712		khiladi		Netaji Subhas Institute of Technology, New Delhi
-713		the_motherboards		Indian Institute of Technology Kharagpur
-714		frost_bite		Jaypee Institute of Information Technology
-715		BIGFLYASH		Punjab Engineering College, Chandigarh
-716		GarbTheFist		Indian Institute of Information Technology, Allahabad
-717		DieHard		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-718		CyBorgs		Indian Institute of Technology Bombay
-719		lazy_coders1234		International Institute of Information Technology, Hyderabad
-720		noobCoup		Indraprastha Institute of Information Technology, Delhi
-721		Apex		Netaji Subhas Institute of Technology, New Delhi
-722		DynamicCoders		Motilal Nehru National Institute of Technology Allahabad
-723		crypt3rs		National Institute of Technology, Kurukshetra
-724		Pythagorean Triples		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-725		highoncode		Manipal Institute of Technology, Manipal
-726		valar_morghulis		Netaji Subhas Institute of Technology, New Delhi
-727		Ascendants		Indian Institute of Technology Roorkee
-728		LiteKnights		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-729		nullpoint3r		Delhi Technological University
-730		whitewolves		Delhi Technological University
-731		croaking_toads		Shiv Nadar University, Chithera
-732		WhyCompetitive		International Institute of Information Technology, Hyderabad
-733		Xenzia		Indian Institute of Technology, Varanasi
-734		nimbu_paani		Motilal Nehru National Institute of Technology Allahabad
-735		CodeIgnitors		Indian Institute of Technology Roorkee
-736		jaiho_1		National Institute of Technology, Jamshedpur
-737		Bits and Bytes		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-738		TryToCode		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-739		Chai_paani_gang		Motilal Nehru National Institute of Technology Allahabad
-740		blessed		Indian School of Mines
-741		hbti_coders		Harcourt Butler Technological Institute, Kanpur
-742		DungeonMasters		Indian Institute of Technology Delhi
-743		Kundaka Mandaka		College of Engineering, Guindy
-744		THREE_IDIOTS		Birla Institute of Technology Mesra
-745		rrs_nitd		National Institute of Technology, Durgapur
-746		tourists		Indian Institute of Technology Indore
-747		Signum Sensatio		Indian Institute of Technology Roorkee
-748		Heart_Bleed		Indian Institute of Technology Kanpur
-749		ataraxia		Indian Institute of Technology Kanpur
-750		kmp_bits		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-751		Order Zero		Indian Institute of Technology Guwahati
-752		CODEMANiAC		Birla Institute of Technology Mesra
-753		ART@ROOT		Indian Institute of Technology Guwahati
-754		E-Coders		International Institute of Information Technology, Hyderabad
-755		bynari		Netaji Subhas Institute of Technology, New Delhi
-756		paryataks		Army Institute of Technology, Pune
-757		PolyMaths		Punjab Engineering College, Chandigarh
-758		cppgeeks		Indian Institute of Technology Kanpur
-759		arrowinfinity		Maulana Azad National Institute of Technology, Bhopal
-760		BCOMPANY		ABV - Indian Institute of Information Technology and Management Gwalior
-761		ManoDharm		International Institute of Information Technology, Hyderabad
-762		Dementor		Netaji Subhas Institute of Technology, New Delhi
-763		nesmnil		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
-764		codefor123		Motilal Nehru National Institute of Technology Allahabad
-765		aas_pass		Kamla Nehru Institute of Technology, Sultanpur, India
-766		dipcoders		Netaji Subhas Institute of Technology, New Delhi
-767		Code A		Indian Institute of Technology Kharagpur
-768		extracodanza		International Institute of Information Technology, Hyderabad
-769		Contagious Intelligence		Sardar Vallabhbhai National Institute of Technology, Surat
-770		sport_coders		International Institute of Information Technology, Hyderabad
-771		DIG_MINDS		ABV - Indian Institute of Information Technology and Management Gwalior
-772		SRT		Birla Institute of Technology Mesra
-773		CoffeeCoders		Delhi Technological University
-774		Tyrogeeks		National Institute of Technology, Calicut
-775		Dark_Souls		National Institute of Technology, Durgapur
-776		Heisenbug		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-777		dark_horse		Delhi Technological University
-778		TimeLimitSucceeded		Indian Institute of Information Technology, Allahabad
-779		The CodeRockers		Indian Institute of Technology Roorkee
-780		fifa_coder		National Institute of Technology, Durgapur
-781		dream__killers		Jaypee Institute of Information Technology
-782		F80_IITR		Indian Institute of Technology Roorkee
-783		Heapsters		Netaji Subhas Institute of Technology, New Delhi
-784		Hackslash		Indian Institute of Information Technology, Lucknow
-785		wrapup		Jaypee Institute of Information Technology
-786		CODING ENTHUSIASTS		International Institute of Information Technology, Hyderabad
-787		Trojans		Sri Sivasubramaniya Nadar College of Engineering, Chennai
-788		beginners		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-789		Zombies		Pune Institute of Computer Technology
-790		icpc_sas		Indian Institute of Technology Roorkee
-791		ENTERPRISE		Netaji Subhas Institute of Technology, New Delhi
-792		Codepros		Birla Institute of Technology Mesra
-793		break_d_walls		National Institute of Technology, Durgapur
-794		bit_map		Indian School of Mines
-795		INCOGNITO		Birla Institute of Technology Mesra
-796		Pythagorean Triplets		Indian Institute of Information Technology, Allahabad
-797		VictoriousSecret		Birla Institute of Technology &amp; Science Pilani, Goa Campus
-798		jungleecoder		National Institute of Technology, Hamirpur
-799		tomatoes		National Institute of Technology Karnataka
-800		DreamOn		Indian Institute of Technology Patna
-801		code__bros		Motilal Nehru National Institute of Technology Allahabad
-802		code_stars		Delhi Technological University
-803		CodeSquad		International Institute of Information Technology, Hyderabad
-804		CODELEGO		Birla Institute of Technology Mesra
-805		laZy_p0inters		Indian Institute of Information Technology, Allahabad
-806		loopers		Birla Institute of Technology, Patna
-807		the_BROgrammerzzz		Birla Institute of Technology Mesra
-808		yash-sai-sam		National Institute of Technology Warangal
-809		AlgoRythm		Motilal Nehru National Institute of Technology Allahabad
-810		need_for_greed		Netaji Subhas Institute of Technology, New Delhi
-811		CERION		Birla Institute of Technology Mesra
-812		hackslash03		Maulana Azad National Institute of Technology, Bhopal
-813		codesmashers		Delhi Technological University
-814		tcoders		Birla Institute of Technology Mesra
-815		XORPHIRE		Netaji Subhas Institute of Technology, New Delhi
-816		dragon1		Netaji Subhas Institute of Technology, New Delhi
-817		lnb_at_icpc		Motilal Nehru National Institute of Technology Allahabad
-818		Ocean		International Institute of Information Technology, Hyderabad
-819		Vector		Birla Institute of Technology Mesra
-820		Titans		Birla Institute of Technology Mesra
-821		DaHUM		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-822		three_kages		Indian Institute of Technology Indore
-823		JSquad		National Institute of Technology, Durgapur
-824		erorr:code too hot to compile		Indian Institute of Technology Roorkee
-825		KnightsB		Indian Institute of Technology Bombay
-826		Rumpelstiltskin		Indian Institute of Technology, Jodhpur
-827		italwaysdepends		International Institute of Information Technology, Hyderabad
-828		The_4_Horsemen		Birla Institute of Technology Mesra
-829		bugs404		International Institute of Information Technology, Hyderabad
-830		namrisshu		Jaypee Institute of Information Technology
-831		LevelSeven		National Institute of Technology Karnataka
-832		LiteCoders		Vellore Institute of Technology, Vellore
-833		CodeBusters		Guru Tegh Bahadur Institute of Technology, New Delhi
-834		Alpha		Indian Institute of Technology Roorkee
-835		Dabloo		Indraprastha Institute of Information Technology, Delhi
-836		The_Dictators		National Institute of Technology, Jamshedpur
-837		Enigma		International Institute of Information Technology, Hyderabad
-838		Encoders		National Institute of Technology Agartala
-839		code_rage		Indian Institute of Technology Roorkee
-840		CODE_HACK		National Institute of Technology Karnataka
-841		Agile		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-842		Speed-GCC		Motilal Nehru National Institute of Technology Allahabad
-843		DaCerealCoders		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-844		ggmax123		Birla Institute of Technology &amp; Science Pilani, Goa Campus
-845		InfinityPlusOne		Indian School of Mines
-846		Code_Crackerz		Indian Institute of Technology Kharagpur
-847		Team-&amp;gt;Arrow		Indian Institute of Technology, Hyderabad
-848		bhagwan_bharose		Indian Institute of Technology Guwahati
-849		Bachmanity_Insanity		College of Engineering, Guindy
-850		Ubalti Aag		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-851		Logic Monks		ABV - Indian Institute of Information Technology and Management Gwalior
-852		Efutue		International Institute of Information Technology, Hyderabad
-853		CodePAN		Indian Institute of Technology Madras
-854		Scardy		Indian Institute of Technology Guwahati
-855		dark_chasers		Indian Institute of Information Technology, Allahabad
-856		2b|!2b		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-857		ICPCoders		International Institute of Information Technology, Hyderabad
-858		Error		Sardar Vallabhbhai National Institute of Technology, Surat
-859		Code geeks		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-860		Re-start		Indian Institute of Technology, Varanasi
-861		GMDMCD		International Institute of Information Technology, Hyderabad
-862		three_eyed_raven		Indian Institute of Technology Roorkee
-863		DA_404 Brain Not Found		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-864		DEADLOCK003		National Institute of Technology Agartala
-865		DVD		Malaviya National Institute of Technology, Jaipur
-866		_CarpeDiem_		Indian Institute of Technology Roorkee
-867		SAM		Indian Institute of Technology, Varanasi
-868		turingbots		L D College Of Engineering, Ahmedabad
-869		addblocker		Motilal Nehru National Institute of Technology Allahabad
-870		The_Nohara_Coders		Indian Institute of Technology Roorkee
-871		Jokers_vga		National Institute of Technology, Jamshedpur
-872		coding4Fun		Indian Institute of Technology Guwahati
-873		Vegeta		Netaji Subhas Institute of Technology, New Delhi
-874		netgg		Birla Institute of Technology &amp; Science Pilani, Goa Campus
-875		goforit		Indian Institute of Technology Guwahati
-876		alpha_queue		National Institute of Technology, Durgapur
-877		AckwardCode		Motilal Nehru National Institute of Technology Allahabad
-878		Trump_Cards		Motilal Nehru National Institute of Technology Allahabad
-879		underdog		Delhi Technological University
-880		+[-----&amp;gt;+++&amp;lt;]&amp;gt;++++.		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-881		Locust		Indian Institute of Technology Roorkee
-882		dalgonasc710		Birla Institute of Technology Mesra
-883		team_RAP		Indraprastha Institute of Information Technology, Delhi
-884		Restless_Mercury		Birla Institute of Technology Mesra
-885		inspire		International Institute of Information Technology, Hyderabad
-886		CODE TLE		University School of Information Technology
-887		ACODERS		Punjab Engineering College, Chandigarh
-888		TREADSTONE71		Birla Institute of Technology Mesra
-889		dangling_coders		National Institute of Technology, Hamirpur
-890		coded_genes		Indian Institute of Technology, Varanasi
-891		AlphaMachine		International Institute of Information Technology, Hyderabad
-892		codevision		National Institute of Technology, Hamirpur
-893		Algomaniacs		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-894		RollingStones		Motilal Nehru National Institute of Technology Allahabad
-895		Trinitty		Indian School of Mines
-896		ascii_mit		Manipal Institute of Technology, Manipal
-897		LiNE		International Institute of Information Technology, Hyderabad
-898		KabhiDPkabhiGRAPH		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-899		Undefined		Indian Institute of Technology Bombay
-900		The_Enigma_Deciphers		Motilal Nehru National Institute of Technology Allahabad
-901		phoeNix@8427		Motilal Nehru National Institute of Technology Allahabad
-902		Evolvers		Delhi Technological University
-903		Byte Breakers		SASTRA University
-904		targus		Indian Institute of Technology Kanpur
-905		NPcompete		Indian Institute of Information Technology, Allahabad
-906		pseudomen		Veermata Jijabai Technological Institute, Mumbai
-907		TEAM 11		Sri Sivasubramaniya Nadar College of Engineering, Chennai
-908		ForCode		Indian Institute of Technology Guwahati
-909		Lazy_crazy		International Institute of Information Technology, Hyderabad
-910		Detanglers		National Institute of Technology, Kurukshetra
-911		ETuBruteForce		Netaji Subhas Institute of Technology, New Delhi
-912		R3Code		Netaji Subhas Institute of Technology, New Delhi
-913		O(1)		Shri Mata Vaishno Devi University
-914		Lousy Coders		National Institute of Technology, Durgapur
-915		KRcoders		National Institute of Technology Warangal
-916		Drumpf Cards		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-917		Coderans		National Institute of Technology Agartala
-918		Vishers		National Institute of Technology, Jamshedpur
-919		FastAndFourier		Birla Institute of Technology &amp; Science Pilani, Goa Campus
-920		Ones &amp;amp; Zeros		Sri Sivasubramaniya Nadar College of Engineering, Chennai
-921		Tejas		Institute of Technology, Nirma University
-922		#Brownies		Delhi Technological University
-923		Logical fools		SASTRA University
-924		65 bit coders		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-925		code_diggers		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-926		GameOfCodes		Jaypee Institute of Information Technology
-927		thegoldentrio		Manipal Institute of Technology, Manipal
-928		Just_Want_AC		Indian Institute of Information Technology, Allahabad
-929		Dark Knight		Punjab Engineering College, Chandigarh
-930		hunter2		Indraprastha Institute of Information Technology, Delhi
-931		The Livsnjutares		Indian Institute of Information Technology, Kalyani
-932		illusion		Birla Institute of Technology Mesra
-933		CEG		College of Engineering, Guindy
-934		phi_tri		Indian Institute of Information Technology, Allahabad
-935		shadowfighter		Indian School of Mines
-936		CuriousCoders		Indian Institute of Technology Kharagpur
-937		B.A.D. Coders		Institute of Technology, Nirma University
-938		nographs		Guru Tegh Bahadur Institute of Technology, New Delhi
-939		Three muskets		PES Institute of Technology, Bangalore
-940		ComplanBoyz		Indian Institute of Technology Bombay
-941		SHADY_3		Birla Institute of Technology Mesra
-942		henchmen		International Institute of Information Technology, Hyderabad
-943		Aag		Indian Institute of Technology Madras
-944		Arbitrary		National Institute of Technology, Calicut
-945		hell_no		Indian Institute of Information Technology, Allahabad
-946		Queued		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-947		knows_no_algo		National Institute of Technology Patna
-948		hephaestus		Motilal Nehru National Institute of Technology Allahabad
-949		Codiyappa		University School of Information Technology
-950		victorious_secrets		Indian Institute of Technology, Jodhpur
-951		JIIT1005		Jaypee Institute of Information Technology
-952		OneLastTime		Indian Institute of Technology Madras
-953		Check.Mate		Indian Institute of Technology Roorkee
-954		TheNullPointers		Maulana Azad National Institute of Technology, Bhopal
-955		chote_log		Indian Institute of Information Technology, Allahabad
-956		Encrypters		Visvesvaraya National Institute of Technology, Nagpur
-957		flash-streak		YMCA University of Science and Technology, Faridabad
-958		SPS		Birla Institute of Technology Mesra
-959		tictactoe		Dwarkadas Jivanlal Sanghvi College of Engineering, Vile Parle, Mumbai
-960		Tyro		Visvesvaraya National Institute of Technology, Nagpur
-961		lazarus_		Indian Institute of Technology Kharagpur
-962		Apocalype_iitd		Indian Institute of Technology Delhi
-963		code404		International Institute of Information Technology, Hyderabad
-964		CodeMads		Indian Institute of Technology Madras
-965		int_main		International Institute of Information Technology, Hyderabad
-966		Need_For_SpeeD		National Institute of Technology, Durgapur
-967		AKA		Manipal Institute of Technology, Manipal
-968		IdeaOne		The LNM Institute of Information Technology, Jaipur
-969		DPWaaleBabu		The LNM Institute of Information Technology, Jaipur
-970		lazy_coders		Birla Institute of Technology, Patna
-971		the_force		Manipal Institute of Technology, Manipal
-972		akatsu_ki		Birla Institute of Technology Mesra
-973		F_Society		National Institute of Technology, Rourkela
-974		ASAP2016		Indian Institute of Technology Roorkee
-975		CODEJALEBI		Malaviya National Institute of Technology, Jaipur
-976		manit_specials		Maulana Azad National Institute of Technology, Bhopal
-977		MNITCodeMonks		Malaviya National Institute of Technology, Jaipur
-978		bitplease		Institute of Technology, Nirma University
-979		hackerex		National Institute of Technology, Jamshedpur
-980		100Coders		Netaji Subhas Institute of Technology, New Delhi
-981		CodeBros		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-982		PSG TECHIANS		PSG College of Technology, Coimbatore
-983		Spectre		Netaji Subhas Institute of Technology, New Delhi
-984		ENIAC		Indian Institute of Technology Madras
-985		ASKARP		National Institute of Technology, Rourkela
-986		Bitwise		Netaji Subhas Institute of Technology, New Delhi
-987		Hot Heads		Indian Institute of Engineering Science and Technology, Shibpur
-988		clueless_idiots		Motilal Nehru National Institute of Technology Allahabad
-989		Equilateral		International Institute of Information Technology, Hyderabad
-990		incognitos		Walchand College of Engineering, Sangli
-991		zeref		Birla Institute of Technology Mesra
-992		CSAuthentic		International Institute of Information Technology, Hyderabad
-993		amateurlogic		Indraprastha Institute of Information Technology, Delhi
-994		underrated		Indian Institute of Technology Kharagpur
-995		byte_coders		National Institute of Technology, Jamshedpur
-996		V_R_Stalwarts		University of Petroleum and Energy Studies, Dehradun
-997		Codeagle		Indian Institute of Technology, Hyderabad
-998		nofsgiven		Amrita School of Engineering, Coimbatore
-999		SAP		Indian Institute of Information Technology, Sri City
-1000		catchyou		Jaypee Institute of Information Technology
-1001		11Musketeers		Indian Institute of Technology Kharagpur
-1002		code_crackers3.0		Indian Institute of Information Technology, Allahabad
-1003		team_iit_ropar_7		Indian Institute of Technology Ropar
-1004		Sicarius		ABV - Indian Institute of Information Technology and Management Gwalior
-1005		DevSlashNull		International Institute of Information Technology, Hyderabad
-1006		flowcode		National Institute of Technology, Rourkela
-1007		b15cs@3		National Institute of Technology, Calicut
-1008		CyberKnights		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-1009		TeamCoders		Maharaja Agrasen Institute Of Technology, Baddi, Himachal Pradesh
-1010		coderap		Punjab Engineering College, Chandigarh
-1011		Wizards		SASTRA University
-1012		_bugpipers_		JK Institute of Applied Physics and Technology,University of Allahabad
-1013		juice_bar		Indian Institute of Technology Kharagpur
-1014		Northerners		Institute of Engineering &amp; Management, Kolkata
-1015		Thedojo		Netaji Subhas Institute of Technology, New Delhi
-1016		Codhackers		Institute of Technology, Nirma University
-1017		FALCONS		National Institute of Technology Warangal
-1018		Ares		Sri Sivasubramaniya Nadar College of Engineering, Chennai
-1019		Watson		Indian Institute of Technology Delhi
-1020		Team123		Jamia Millia Islamia
-1021		boolean3		Lovely Professional University
-1022		nova101		Maulana Azad National Institute of Technology, Bhopal
-1023		Corner_Case		Netaji Subhas Institute of Technology, New Delhi
-1024		coder_kgp		Indian Institute of Technology Kharagpur
-1025		KidsNextDoor		Birla Institute of Technology Mesra
-1026		Apocalypse_dtu		Delhi Technological University
-1027		Core		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-1028		code_addicts		Jaypee Institute of Information Technology
-1029		POP		International Institute of Information Technology, Hyderabad
-1030		NIGHTSWATCH		Birla Institute of Technology Mesra
-1031		Random_123		The LNM Institute of Information Technology, Jaipur
-1032		goForAc2016		Motilal Nehru National Institute of Technology Allahabad
-1033		lazy_redoc		National Institute of Technology Silchar
-1034		IIITMG4		ABV - Indian Institute of Information Technology and Management Gwalior
-1035		codebros2		Maharaja Surajmal Institute of Technology
-1036		Run Time Error		Delhi Technological University
-1037		vim-ulators		Birla Institute of Technology Jaipur
-1038		FA_Club		Indian Institute of Technology Kharagpur
-1039		Mad Men		Indian Institute of Information Technology, Allahabad
-1040		bruteForce		Birla Institute of Technology &amp; Science Pilani, Goa Campus
-1041		NewBEES		Malaviya National Institute of Technology, Jaipur
-1042		Heisenbugs		PES Institute of Technology, Bangalore
-1043		Red_Coders		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-1044		Coderithm		PES Institute of Technology, Bangalore
-1045		hello_world[3]		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-1046		De Coders		National Institute of Technology, Calicut
-1047		Losers		Indian Institute of Technology Madras
-1048		powerpuff_girls		Delhi Technological University
-1049		DBZ		School of Engineering, Cochin University of Science and Technology
-1050		darkhorses		Delhi Technological University
-1051		coders_tss		Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
-1052		Dexters		National Institute of Technology, Durgapur
-1053		Now You C Me		Netaji Subhas Institute of Technology, New Delhi
-1054		Team_Not_Found		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1055		Felina		International Institute of Information Technology, Hyderabad
-1056		404_not_found		National Institute of Technology Raipur
-1057		vertex_cover		Maharaja Surajmal Institute of Technology
-1058		TrieHard		VIT University, Chennai
-1059		reverse _cigol		National Institute of Technology Karnataka
-1060		Pow_bhaji		Indian Institute of Information Technology, Kalyani
-1061		break-the-matrix		National Institute of Technology, Durgapur
-1062		dtucoders		Delhi Technological University
-1063		MIC-III		National Institute of Technology, Calicut
-1064		Teams.name( )		YMCA University of Science and Technology, Faridabad
-1065		fork_bomb		National Institute of Technology Tiruchirappalli
-1066		too &amp;quot;professional&amp;quot;		Indraprastha Institute of Information Technology, Delhi
-1067		Harambe		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-1068		CodeMasters		Maharaja Agrasen Institute Of Technology, Baddi, Himachal Pradesh
-1069		AogiriTree		International Institute of Information Technology, Hyderabad
-1070		TresCommas		Birla Institute of Technology &amp; Science Pilani, Goa Campus
-1071		Tech Knights		Sardar Vallabhbhai National Institute of Technology, Surat
-1072		TooCommon		Jaypee Institute of Information Technology
-1073		CoderIT		National Institute of Technology Raipur
-1074		Code Wizards		National Institute of Technology Raipur
-1075		kgmteam		Punjab Engineering College, Chandigarh
-1076		bethered		International Institute of Information Technology, Hyderabad
-1077		We are desperate		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1078		NightKnights		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-1079		Exemplo_Ducemus		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
-1080		RAS		Indian Institute of Information Technology, Allahabad
-1081		KKR		Netaji Subhas Institute of Technology, New Delhi
-1082		primes		National Institute of Technology Warangal
-1083		XOR se bolo jai mata di		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1084		CodeBros 4.0		Jaypee Institute of Information Technology
-1085		The Gray Frost		Indian Institute of Technology Kharagpur
-1086		Pluto		Sri Sivasubramaniya Nadar College of Engineering, Chennai
-1087		RememberUs		L D College Of Engineering, Ahmedabad
-1088		VITCC3		VIT University, Chennai
-1089		Prodigy_Trio		Jaypee Institute of Information Technology
-1090		ByteBandit		Birla Institute of Technology Mesra
-1091		Limited		Indian Institute of Technology, Varanasi
-1092		RedGhost		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-1093		We-are-NO-ONE		Indian Institute of Information Technology, Design and Manufacturing, Jabalpur
-1094		Deadly_coders		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-1095		intelbees		Indian Institute of Information Technology Design &amp; Manufacturing, Kancheepuram
-1096		Harmony		Maharaja Surajmal Institute of Technology
-1097		brainjam		Indian Institute of Information Technology, Design and Manufacturing, Jabalpur
-1098		CODEGEAS		ABV - Indian Institute of Information Technology and Management Gwalior
-1099		UNITE_3		National Institute of Technology, Calicut
-1100		DasCoder		Indian Institute of Technology, Hyderabad
-1101		Thunderbolt		Netaji Subhas Institute of Technology, New Delhi
-1102		bhai_group		Indian Institute of Information Technology, Allahabad
-1103		TheDominus		Birla Institute of Technology Mesra
-1104		Unplaced		Indraprastha Institute of Information Technology, Delhi
-1105		KillingStreak		Amrita School of Engineering, Bengaluru
-1106		Team_ICPCMS		Motilal Nehru National Institute of Technology Allahabad
-1107		White		Birla Institute of Technology, Patna
-1108		hammers		Delhi Technological University
-1109		Neuron		Chaitanya Bharathi Institute of Technology
-1110		jaguar		Delhi Technological University
-1111		Null		National Institute of Technology Silchar
-1112		The Matrix		PES Institute of Technology, Bangalore
-1113		pioneer_bvp		Bharati Vidyapeeth's College of Engineering, New Delhi
-1114		StarLabs		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1115		as_if_you_care		National Institute of Technology, Durgapur
-1116		golden rule		University School of Information Technology
-1117		noobs[3]		International Institute of Information Technology, Hyderabad
-1118		StarPantz		SASTRA University
-1119		_Code_goto		Indian Institute of Technology Kharagpur
-1120		Turing		National Institute of Technology Warangal
-1121		O(msv)		Amrita School of Engineering, Coimbatore
-1122		Darth Coders		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1123		GNA		Sri Sivasubramaniya Nadar College of Engineering, Chennai
-1124		while(1)		University Institute of Engineering and Technology, Punjab University
-1125		Breaking Bugs		Manipal Institute of Technology, Manipal
-1126		Team TUX		Delhi Technological University
-1127		Tomcat		Sri Sivasubramaniya Nadar College of Engineering, Chennai
-1128		sis_please		Netaji Subhas Institute of Technology, New Delhi
-1129		NAMESPACE		Indian Institute of Technology Kharagpur
-1130		VESIT_SAINTS		Vivekanand Education Society's Institute of Technology
-1131		canon		Indian Institute of Technology Ropar
-1132		exponentially_brute-al		Indian Institute of Technology Kharagpur
-1133		team_thunderbolt		Indian Institute of Technology, Varanasi
-1134		Sambhav		Institute of Technology, Nirma University
-1135		code junkies		Delhi Technological University
-1136		MAVericks		Walchand College of Engineering, Sangli
-1137		Ravenclaw		ABV - Indian Institute of Information Technology and Management Gwalior
-1138		CodeX		Lovely Professional University
-1139		Metasyntactic		Maharaja Agrasen Institute Of Technology, Baddi, Himachal Pradesh
-1140		R.A.M		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1141		AVA-Lanche		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1142		k3rnel-pan1c		Indian Institute of Technology Madras
-1143		The UnderDogs		Sardar Vallabhbhai National Institute of Technology, Surat
-1144		DNJ		Indian Institute of Information Technology, Allahabad
-1145		Constants		PES Institute of Technology, Bangalore
-1146		sab_tourist		Visvesvaraya National Institute of Technology, Nagpur
-1147		BulkBeings		Indian Institute of Technology Madras
-1148		JMD236		Delhi Technological University
-1149		Eunoia		Punjab Engineering College, Chandigarh
-1150		JAIN IS KING		Netaji Subhas Institute of Technology, New Delhi
-1151		GIANT CODER		Institute of Engineering &amp; Technology, M.J.P. Rohilkhand University
-1152		D212		Netaji Subhas Institute of Technology, New Delhi
-1153		just_imagine		Indian Institute of Technology Kharagpur
-1154		coderbros		Delhi Technological University
-1155		Black_Panther		Indian Institute of Technology Roorkee
-1156		The Vangaurds		International Institute of Information Technology, Hyderabad
-1157		palash		Birla Institute of Technology &amp; Science Pilani, Goa Campus
-1158		Nights_with_K		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1159		dividedbyzero		National Institute of Technology Warangal
-1160		Codepilers		Indian Institute of Technology Kharagpur
-1161		assault		Walchand College of Engineering, Sangli
-1162		Packets		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-1163		Dashboard		National Institute of Technology, Calicut
-1164		NOVICE		ABV - Indian Institute of Information Technology and Management Gwalior
-1165		Phoenix		PES Institute of Technology, Bangalore
-1166		bitbusters		Birla Institute of Technology Mesra
-1167		BitsPrettyPlease		PES Institute of Technology, Bangalore
-1168		Invincibles		Indian Institute of Information Technology, Allahabad
-1169		a2a		Amrita University
-1170		Code Trinity		National Institute of Technology, Calicut
-1171		Bit_Breakers		National Institute of Technology Agartala
-1172		CodeBots		National Institute of Technology, Calicut
-1173		ShadowNinjas		Thapar University
-1174		Greedy_Hackers		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-1175		Palakkad Titans		Indian Institute of Technology, Palakkad
-1176		CodeBlood		Indian Institute of Technology Indore
-1177		#code		Indian Institute of Technology, Varanasi
-1178		Alpha_Go		Delhi Technological University
-1179		Nitj_14		Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
-1180		Team_Spirit		Visvesvaraya National Institute of Technology, Nagpur
-1181		CodeWreckers		Indian Institute of Technology Roorkee
-1182		dtucodeit		Delhi Technological University
-1183		&amp;lt;code_till_end&amp;gt;		International Institute of Information Technology, Hyderabad
-1184		lol_da		National Institute of Technology Tiruchirappalli
-1185		Mini Militians		National Institute of Technology, Calicut
-1186		GreedyIsGood		Indian Institute of Information Technology, Allahabad
-1187		drexers		National Institute of Technology, Calicut
-1188		qwertyui		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-1189		VPNcoders		The LNM Institute of Information Technology, Jaipur
-1190		bitsplease		Jaypee Institute of Information Technology
-1191		EnigmaGeeks		Indian School of Mines
-1192		StronglyConnected		Dwarkadas Jivanlal Sanghvi College of Engineering, Vile Parle, Mumbai
-1193		GAJ		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-1194		triund		Delhi Technological University
-1195		byte_me		Birla Institute of Technology Mesra
-1196		code_rangers		Punjab Engineering College, Chandigarh
-1197		YOROZUYA_404		Indian Institute of Technology Roorkee
-1198		kuch_bhi_2.0		Indian Institute of Technology Guwahati
-1199		code_jammers		JSS Academy of Technical Education, Noida
-1200		players96		Birla Institute of Technology Mesra
-1201		Runtime_Error		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1202		GLADIOLUS		Birla Institute of Technology Mesra
-1203		deadMen		Indian Institute of Technology Roorkee
-1204		Codephilic		Birla Institute of Technology Mesra
-1205		Equinox		International Institute of Information Technology, Hyderabad
-1206		BPL		Birla Institute of Technology Mesra
-1207		gandalfdevotees		Netaji Subhas Institute of Technology, New Delhi
-1208		CodeLimits		Dwarkadas Jivanlal Sanghvi College of Engineering, Vile Parle, Mumbai
-1209		Technotics		Birla Institute of Technology Mesra
-1210		fugitives		Army Institute of Technology, Pune
-1211		monsat		Birla Institute of Technology, Patna
-1212		The GNV Team		Netaji Subhas Institute of Technology, New Delhi
-1213		bytecodedgp		National Institute of Technology, Durgapur
-1214		XORavars		School of Engineering and Applied Science, Ahmedabad University
-1215		Sarvatra		Veer Surendra Sai University of Technology, Orissa
-1216		two_legends		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-1217		humblefools		National Institute of Technology, Durgapur
-1218		Matrix		Indian Institute of Information Technology, Sri City
-1219		Lumos		PES Institute of Technology, Bangalore
-1220		Sherlock		Birla Institute of Technology Mesra
-1221		codeless		Guru Tegh Bahadur Institute of Technology, New Delhi
-1222		Reserve		ACM ICPC 2016
-1223		daemon_panic		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
-1224		anonymous coders		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1225		fcuksociety		Pimpri Chinchwad College of Engineering, Pune
-1226		NewComers		Techno India Salt Lake
-1227		CODEPRODCE		Delhi Technological University
-1228		bitsetgo		Netaji Subhas Institute of Technology, New Delhi
-1229		Anonymous1309		National Institute of Technology, Calicut
-1230		Wecode		University Institute of Engineering and Technology, Punjab University
-1231		Tech-Knights		Visvesvaraya National Institute of Technology, Nagpur
-1232		Codefellas		Institute of Technology, Nirma University
-1233		Psuedo Coders		National Institute of Technology Warangal
-1234		.cpp		Jaypee Institute of Information Technology
-1235		Radiance		Indian Institute of Technology Bombay
-1236		quantic		Birla Institute of Technology Mesra
-1237		Capitol_Coders		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-1238		The Coding Owls		Amrita School of Engineering, Bengaluru
-1239		CODEBURN		BMS College of Engineering, Bangalore
-1240		mactc		Maulana Azad National Institute of Technology, Bhopal
-1241		DaughtersOfAda		National Institute of Technology Tiruchirappalli
-1242		Logicals		Abes Engineering college, Ghaziabad
-1243		teamdogmatic		Indian Institute of Technology Roorkee
-1244		UNDERSCORE		Birla Institute of Technology Mesra
-1245		bytecoder		JSS Academy of Technical Education, Noida
-1246		Bruters		Indian Institute of Technology Roorkee
-1247		codesquad1		National Institute of Technology, Durgapur
-1248		panda3		Rajiv Gandhi University of Knowledge Technologies Basar
-1249		Dangling Pointers		Sri Sivasubramaniya Nadar College of Engineering, Chennai
-1250		GreyHats		Indian Institute of Engineering Science and Technology, Shibpur
-1251		Counter_Errorists		Pimpri Chinchwad College of Engineering, Pune
-1252		Bol_Bum		National Institute of Technology, Jamshedpur
-1253		Illuminati0809		Jaypee University of Engineering and Technology, Guna
-1254		Nakama		Indian Institute of Technology Roorkee
-1255		CodeWarrior		Manipal Institute of Technology, Manipal
-1256		apples		Vishwakarma Government Engineering College, Chandkheda
-1257		DeathCoders		International Institute of Information Technology, Hyderabad
-1258		deathstorm		National Institute of Technology Patna
-1259		D-Coders		Govind Ballabh Pant Engineering College, Pauri Garhwal
-1260		Insomaniac		National Institute of Technology, Jamshedpur
-1261		Noobies		Indian Institute of Technology, Varanasi
-1262		maniAC		Indian Institute of Information Technology, Kalyani
-1263		iostream		University Visvesvaraya College of Engineering, Bangalore
-1264		Wolxaviers		Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
-1265		Bhand Pujari		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1266		firststep		Sardar Vallabhbhai National Institute of Technology, Surat
-1267		HAWK_INSIGHTS		Kalinga Institute of Industrial Technology
-1268		ma5ters		MBM College of Engineering, Jodhpur
-1269		normally_weird		National Institute of Technology, Durgapur
-1270		lol_da_boyzz		National Institute of Technology Tiruchirappalli
-1271		Acube		University Institute of Engineering and Technology, Punjab University
-1272		R0bu$ters		Indian Institute of Technology Roorkee
-1273		win_rar		Maulana Azad National Institute of Technology, Bhopal
-1274		N0V!C3		Indian Institute of Technology Kharagpur
-1275		Extreme Coders		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1276		SHR123		Birla Institute of Technology Mesra
-1277		spiderman		Indian Institute of Technology Mandi
-1278		DFENDR		International Institute of Information Technology, Hyderabad
-1279		AAAA		Abes Engineering college, Ghaziabad
-1280		BasYunHi		Jaypee Institute of Information Technology
-1281		team_mbm		MBM College of Engineering, Jodhpur
-1282		Callidus		Indian Institute of Engineering Science and Technology, Shibpur
-1283		DKoderS		Anil Neerukonda Institute of Technology and Sciences
-1284		THE_LONGEST_TEAM_NAME		Army Institute of Technology, Pune
-1285		codX		Netaji Subhas Institute of Technology, New Delhi
-1286		ASR		National Institute of Technology, Durgapur
-1287		LazyCoders		Indian Institute of Technology, Varanasi
-1288		Lannisters		Netaji Subhas Institute of Technology, New Delhi
-1289		Megaminds		Indian Institute of Technology, Hyderabad
-1290		undecidable_1		International Institute of Information Technology, Hyderabad
-1291		enigma13		International Institute of Information Technology, Hyderabad
-1292		AllForOne		Netaji Subhas Institute of Technology, New Delhi
-1293		Innovex		Anil Neerukonda Institute of Technology and Sciences
-1294		compleXity		Jamia Millia Islamia
-1295		Techno pirates		Jaypee Institute of Information Technology
-1296		N:OW		Indian Institute of Information Technology, Allahabad
-1297		Spectacle-Ops		Indian Institute of Technology, Hyderabad
-1298		Junpai		National Institute of Technology, Durgapur
-1299		assault_code		National Institute of Technology Patna
-1300		DarkraiS		Indian Institute of Technology Kanpur
-1301		apni_team		National Institute of Technology, Durgapur
-1302		flipping_bits		Jaypee Institute of Information Technology
-1303		classy coders		Sardar Vallabhbhai National Institute of Technology, Surat
-1304		The Knights		National Institute of Technology Karnataka
-1305		code123		Netaji Subhas Institute of Technology, New Delhi
-1306		codesters		SASTRA University
-1307		KLU Coders		Koneru Lakshmaiah College of Engineering, Vijayawada, Vijayawada
-1308		codeatoms		Indian Institute of Technology, Hyderabad
-1309		codehoppers		Indian Institute of Technology Roorkee
-1310		DarkArmy		Jaipur Engineering College and Research Centre
-1311		TwinProgrammers		M. H. Saboo Siddik College of Engineering
-1312		Invincible		PES Institute of Technology, Bangalore
-1313		codemaster		Institute of Engineering &amp; Management, Kolkata
-1314		rgcer_algo		Rajiv Gandhi College Of Engg And Research, Nagpur
-1315		Ace_Warriors		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1316		igft_1101		Indian Institute of Technology Kanpur
-1317		hacker16		Visvesvaraya National Institute of Technology, Nagpur
-1318		ECE DECODERS		Netaji Subhas Institute of Technology, New Delhi
-1319		hahahaha		International Institute of Information Technology, Hyderabad
-1320		IndoriZayka		Acropolis Institute of Technology &amp; Research, Indore
-1321		AlgoFolks		Indian Institute of Information Technology, Sri City
-1322		ACM Coders		National Institute of Technology, Calicut
-1323		Infinite6		Netaji Subhas Institute of Technology, New Delhi
-1324		TeamElliot		National Institute of Technology Warangal
-1325		SSCodies		Pimpri Chinchwad College of Engineering, Pune
-1326		Dash		Malaviya National Institute of Technology, Jaipur
-1327		white_space_IITR		Indian Institute of Technology Roorkee
-1328		Mr. Better		Indian Institute of Engineering Science and Technology, Shibpur
-1329		canine		Sardar Vallabhbhai National Institute of Technology, Surat
-1330		Coderazzi		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
-1331		Lucifer		Jaypee University of Engineering and Technology, Guna
-1332		Team Kaushal		Kalinga Institute of Industrial Technology
-1333		BinaryBros		Netaji Subhas Institute of Technology, New Delhi
-1334		harcourtians_coders		Harcourt Butler Technological Institute, Kanpur
-1335		codevisioner		Maharaja Surajmal Institute of Technology
-1336		brut4Cies		School of Engineering, Cochin University of Science and Technology
-1337		BeyBladers		MBM College of Engineering, Jodhpur
-1338		&amp;#039;Incognito Coders		International Institute of Information Technology, Bangalore
-1339		se7en		National Institute of Technology, Calicut
-1340		Sabotage		PES Institute of Technology, Bangalore
-1341		omega_script		Birla Institute of Technology Mesra
-1342		alwayswannafly		Madras Institute of Technology, Anna University
-1343		bashtech		International Institute of Information Technology, Hyderabad
-1344		The Trio		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1345		Kurokuma		National Institute of Technology, Calicut
-1346		CodeBabes		National Institute of Technology, Hamirpur
-1347		codeknight(aurora)		Birla Institute of Technology Mesra
-1348		silentsharks		Institute of Engineering &amp; Technology, M.J.P. Rohilkhand University
-1349		Godspeed		Punjab Engineering College, Chandigarh
-1350		constant_mvt		Birla Institute of Technology Mesra
-1351		deadly_zombies		Indian Institute of Information Technology, Lucknow
-1352		White Knights		Thapar University
-1353		Prime		Indian Institute of Technology, Varanasi
-1354		Bitcoders		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1355		legion_coders		International Institute of Information Technology, Hyderabad
-1356		Rising Coders		Institute of Engineering &amp; Technology, M.J.P. Rohilkhand University
-1357		The Sterling Marauders		Indian Institute of Technology, Palakkad
-1358		ASH		Govind Ballabh Pant Engineering College, Pauri Garhwal
-1359		CRAZY_TRIO		Birla Institute of Technology Mesra
-1360		Always Blue		Manipal Institute of Technology, Manipal
-1361		A_Team_Has_No_Name		PES Institute of Technology, Bangalore
-1362		shotatcode		Indian Institute of Technology Guwahati
-1363		dosomething		National Institute of Technology, Hamirpur
-1364		HalfFry		Gautam Buddha University, Greater Noida
-1365		GREEN BUILDERS		Sree Vidyanikethan Engineering College
-1366		MYSTERY128		Jaypee Institute of Information Technology
-1367		Apocalypsis		Birla Institute of Technology &amp; Science Pilani, Goa Campus
-1368		Coding_Saints		Chandigarh University
-1369		dreamteam		Delhi Technological University
-1370		greedy is good		Manipal Institute of Technology, Manipal
-1371		Reserve		ACM ICPC 2016
-1372		DarkWizards		Jabalpur Engineering College, Jabalpur
-1373		coders#21		JK Institute of Applied Physics and Technology,University of Allahabad
-1374		XTREMIS		National Institute of Technology Raipur
-1375		3.0		ABV - Indian Institute of Information Technology and Management Gwalior
-1376		Kung Fu Pandas		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1377		CODEYS		PES Institute of Technology, Bangalore
-1378		Cannon		ABV - Indian Institute of Information Technology and Management Gwalior
-1379		Bug_Masters		International Institute of Information Technology, Hyderabad
-1380		MSS		Techno India Salt Lake
-1381		noobsters		Amrita School of Engineering, Bengaluru
-1382		ACM IIITK 2086		Indian Institute of Information Technology, Kalyani
-1383		~WA		National Institute of Technology, Calicut
-1384		SKYHIGH		PES Institute of Technology, Bangalore
-1385		memento vivere		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-1386		techHunders		Jabalpur Engineering College, Jabalpur
-1387		The Debuggers		PES Institute of Technology, Bangalore
-1388		BufferingEngineers		M. H. Saboo Siddik College of Engineering
-1389		HASHTAG		Amrita School of Engineering, Coimbatore
-1390		Swaggers		Walchand College of Engineering, Sangli
-1391		404_Error		Army Institute of Technology, Pune
-1392		teen_bhondu		Netaji Subhas Institute of Technology, New Delhi
-1393		VSSUT_Pride9		Veer Surendra Sai University of Technology, Orissa
-1394		Stack Underflow		National Institute of Technology Karnataka
-1395		Blubbers		Netaji Subhas Institute of Technology, New Delhi
-1396		VSSUT_Pride5		Veer Surendra Sai University of Technology, Orissa
-1397		MSM		Netaji Subhas Institute of Technology, New Delhi
-1398		CODEABC		Delhi Technological University
-1399		Fire Coders		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1400		LNMIITcodes		The LNM Institute of Information Technology, Jaipur
-1401		Hitian Codiacs		Madhav Institute of Technology and Science, Gwalior
-1402		codemanit		Maulana Azad National Institute of Technology, Bhopal
-1403		Phodenge		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1404		The Tremendous Trio		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-1405		cryptonix		National Institute of Technology, Durgapur
-1406		Codestars		Indian Institute of Technology Roorkee
-1407		Code_Hackers		International Institute of Information Technology, Hyderabad
-1408		Jalti Maachisss		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1409		pOpCoRnCoDeRs		Indian Institute of Technology, Hyderabad
-1410		born_coders		Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
-1411		code_vishnu		Guru Ghasidas University, Bilaspur
-1412		zigby		Indian Institute of Technology Kanpur
-1413		Sky Scrapers		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1414		kietians		Krishna Institute of Engineering and Technology
-1415		Gunda_Raj		Institute of Engineering and Technology, Devi Ahilya Vishwavidyalaya
-1416		AlphaMikeFoxtrot		Amrita School of Engineering, Coimbatore
-1417		Uietcoderz		University Institute of Engineering and Technology, Punjab University
-1418		nullpointers		Birla Institute of Technology, Patna
-1419		ParamName		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-1420		casualCoders		National Institute of Technology, Durgapur
-1421		sudoWin		Indian Institute of Technology Guwahati
-1422		dirty_coders112523		School of Engineering, Cochin University of Science and Technology
-1423		core_dumped		Indian Institute of Technology, Hyderabad
-1424		Atomic		Guru Ghasidas University, Bilaspur
-1425		CodeForFood		Vidyalankar Institute of Technology
-1426		BorrowCash		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-1427		CFreaks		Pimpri Chinchwad College of Engineering, Pune
-1428		Rogue		Sardar Vallabhbhai National Institute of Technology, Surat
-1429		3 stroke coders		Indian Institute of Technology Roorkee
-1430		The ScripterSyndicate		International Institute of Information Technology, Bangalore
-1431		Akatsuki		Shri Mata Vaishno Devi University
-1432		Sprinters		National Institute of Technology Silchar
-1433		Hmmm		Pimpri Chinchwad College of Engineering, Pune
-1434		CURIENCE		YMCA University of Science and Technology, Faridabad
-1435		pickachu		Delhi Technological University
-1436		Kronos		PES Institute of Technology, Bangalore
-1437		CodeGeeks_NITH		National Institute of Technology, Hamirpur
-1438		B0rn2C0de		Shri Mata Vaishno Devi University
-1439		PSY		Indian Institute of Technology Roorkee
-1440		hackrush		National Institute of Technology, Durgapur
-1441		Mtech16SHY		Indian Institute of Technology Madras
-1442		Mr.Robot		Maharaja Agrasen Institute Of Technology, Baddi, Himachal Pradesh
-1443		TU_CODERS		Thapar University
-1444		Spades		National Institute of Technology Raipur
-1445		3ACs		Sardar Patel Institute Of Technology, Mumbai
-1446		pseudocode		National Institute of Technology, Durgapur
-1447		3G1C		Indian Institute of Technology Roorkee
-1448		Constant Vigilance		Vivekanand Education Society's Institute of Technology
-1449		CodeGeeks		International Institute of Information Technology, Bangalore
-1450		Reserve		ACM ICPC 2016
-1451		Dead Skulls		Amrita School of Engineering, Bengaluru
-1452		Codaemon		ABV - Indian Institute of Information Technology and Management Gwalior
-1453		MST		Indraprastha Institute of Information Technology, Delhi
-1454		Heuristics		ABV - Indian Institute of Information Technology and Management Gwalior
-1455		Sbuddies		Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
-1456		Void*		PES Institute of Technology, Bangalore
-1457		AlphaResonate		Jaypee Institute of Information Technology
-1458		randomizers		Netaji Subhas Institute of Technology, New Delhi
-1459		CRCECoders		Fr. Conceicao Rodrigues College of Engineering, Bandra
-1460		Inception		Netaji Subhas Institute of Technology, New Delhi
-1461		EvilCorp		Techno India Salt Lake
-1462		FuzzyLogic		Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
-1463		NullPointerException		Vellore Institute of Technology, Vellore
-1464		Falcon2K		University Institute of Engineering and Technology, Punjab University
-1465		&amp;lt;code/breakers&amp;gt;		M. H. Saboo Siddik College of Engineering
-1466		Spirit		National Institute of Technology Patna
-1467		SKYRIMS		Netaji Subhas Institute of Technology, New Delhi
-1468		FiniteLoop		Jaypee Institute of Information Technology
-1469		Charizards		University Institute of Engineering and Technology, Punjab University
-1470		Code Invaders		Indian Institute of Information Technology, Sri City
-1471		Shitty_Coders		Sarvajanik College of Engineering and Technology, Gujarat
-1472		The_misfits		Indian Institute of Information Technology, Allahabad
-1473		nitk_2ndyear		National Institute of Technology, Kurukshetra
-1474		CoDeRpReNeUrS		International Institute of Information Technology, Hyderabad
-1475		trsrwarriors		Delhi Technological University
-1476		Liteforces!		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1477		NYX		Birla Institute of Technology Mesra
-1478		HackathonRockers		SASTRA University
-1479		coders_42		Netaji Subhas Institute of Technology, New Delhi
-1480		codeme		Delhi Technological University
-1481		BITS_SAY		Sardar Vallabhbhai National Institute of Technology, Surat
-1482		coders_svnit		Sardar Vallabhbhai National Institute of Technology, Surat
-1483		codensv		Visvesvaraya National Institute of Technology, Nagpur
-1484		Mystic Coders		Amrita School of Engineering, Coimbatore
-1485		The Incredibles 97		Netaji Subhas Institute of Technology, New Delhi
-1486		aspm		Bharati Vidyapeeth's College of Engineering, New Delhi
-1487		Code_Passion		Delhi Technological University
-1488		CodeRunners		Netaji Subhas Institute of Technology, New Delhi
-1489		Heapify()		Jaypee Institute of Information Technology
-1490		Black_Coder		National Institute of Technology Silchar
-1491		niecc_coders		The National Institute of Engineering, Mysore
-1492		Rockers		National Institute of Technology, Jamshedpur
-1493		The Errorists		SASTRA University
-1494		TriBytes		Indira Gandhi Delhi Technical University for Women
-1495		Number Crunchers		Manipal Institute of Technology, Manipal
-1496		cr7f9tlm10		Indian School of Mines
-1497		WhatACode		Delhi Technological University
-1498		C+Plus		Shiv Nadar University, Chithera
-1499		Backfire		Indian Institute of Technology Ropar
-1500		alienage		Institute of Technology, Nirma University
-1501		noob_alliance		University of Petroleum and Energy Studies, Dehradun
-1502		pycoders		Maulana Azad National Institute of Technology, Bhopal
-1503		Reserve		ACM ICPC 2016
-1504		Ultimate		Jaypee Institute of Information Technology
-1505		CODE COMMANDERS		Jabalpur Engineering College, Jabalpur
-1506		RSA		Indraprastha Institute of Information Technology, Delhi
-1507		UCEVcoders		Jawaharlal Nehru Technological University, Vizianagaram
-1508		swag_shakti		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-1509		Coderavens		Institute of Technology, Nirma University
-1510		R2D2		ABV - Indian Institute of Information Technology and Management Gwalior
-1511		Greed_For_Speed		PES Institute of Technology, Bangalore
-1512		Brogrammers!		School of Engineering and Applied Science, Ahmedabad University
-1513		merak		Sarvajanik College of Engineering and Technology, Gujarat
-1514		codekiller		Indian Institute of Information Technology, Design and Manufacturing, Jabalpur
-1515		Notepad++		PES Institute of Technology, Bangalore
-1516		3SAT		Indian Institute of Technology Kharagpur
-1517		RCOEM-CSE		Shri Ramdeobaba College of Engineering and Management, Nagpur
-1518		mighty_believer		Indian Institute of Information Technology, Lucknow
-1519		Free Authority		Jamia Millia Islamia
-1520		322		PES Institute of Technology, Bangalore
-1521		void name();		Sardar Vallabhbhai National Institute of Technology, Surat
-1522		Tech3coders		Sri Sivasubramaniya Nadar College of Engineering, Chennai
-1523		SystemShock		Amrita School of Arts and Sciences, Mysore
-1524		Half-bloods		Amrita School of Engineering, Coimbatore
-1525		C--		Thapar University
-1526		ThinkTank		Vivekanand Education Society's Institute of Technology
-1527		CodeMagic		Swami Keshvanand Institute of Technology Management &amp; Gramothan
-1528		NEWTONS		National Institute of Technology, Calicut
-1529		Arrow_		Jaypee Institute of Information Technology
-1530		Anp		Dharmsinh Desai Institute of Technology
-1531		3 Acces		Abes Engineering college, Ghaziabad
-1532		Nexus		Deenbandhu Chhotu Ram University of Science and Technology, Murthal
-1533		Schr&amp;Atilde;&amp;para;dinger&amp;#039;s Cats		Amrita School of Engineering, Coimbatore
-1534		error_404		National Institute of Technology, Jamshedpur
-1535		pseudo coders		Indian Institute of Technology Madras
-1536		BackBenchers		Shri Mata Vaishno Devi University
-1537		LIFOLovers		The LNM Institute of Information Technology, Jaipur
-1538		SimpleMinds		School of Engineering, Cochin University of Science and Technology
-1539		B00LEAN		College of Engineering, Pune
-1540		Coders		Bharati Vidyapeeth's College of Engineering, New Delhi
-1541		PNR		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1542		Reserve		ACM ICPC 2016
-1543		MINcoders		Delhi Technological University
-1544		code_riders		National Institute of Technology, Jamshedpur
-1545		vostok		MBM College of Engineering, Jodhpur
-1546		ProgrammingPythons		SASTRA University
-1547		conjurers		Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad
-1548		fsociety		National Institute of Technology, Durgapur
-1549		heathens		Indian Institute of Technology Patna
-1550		Prototypes		Indian School of Mines
-1551		Lolzz		PES Institute of Technology, Bangalore
-1552		anubhav		Delhi Technological University
-1553		underdogs		National Institute of Technology, Durgapur
-1554		Need_for_run		National Institute of Technology Patna
-1555		AAAJ		Abes Engineering college, Ghaziabad
-1556		slowcoders		University School of Information Technology
-1557		Reserve		ACM ICPC 2016
-1558		Codoholic		National Institute of Technology Agartala
-1559		Bits Please		PES Institute of Technology, Bangalore
-1560		Bit-Coders		Jamia Millia Islamia
-1561		Avengers		Institute of Engineering and Technology, Devi Ahilya Vishwavidyalaya
-1562		NBITS		B. P. Poddar Institute of Management &amp; Technology
-1563		Inferno		ABV - Indian Institute of Information Technology and Management Gwalior
-1564		Matrix		Birla Institute of Technology Mesra
-1565		dekster		Sarvajanik College of Engineering and Technology, Gujarat
-1566		Phoenix-kct		Kumaraguru College of Technology, Coimbatore
-1567		Hard Coders		ABV - Indian Institute of Information Technology and Management Gwalior
-1568		HACKJACKERS		VNR Vignana Jyothi Institute of Engineering &amp; Technology
-1569		Aria		Maharaja Surajmal Institute of Technology
-1570		ByteIT		PES Institute of Technology, Bangalore
-1571		partners in code		International Institute of Information Technology, Hyderabad
-1572		c0desketeers		Chaitanya Bharathi Institute of Technology
-1573		Einsteam		Institute of Engineering &amp; Technology, M.J.P. Rohilkhand University
-1574		CodeMaesters		Jaypee Institute of Information Technology
-1575		BombSquad		Veermata Jijabai Technological Institute, Mumbai
-1576		CSE-RCOEM-3rdYear		Shri Ramdeobaba College of Engineering and Management, Nagpur
-1577		Maniack		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1578		Reserve		ACM ICPC 2016
-1579		CoolHackers		Amrita School of Engineering, Amritapuri
-1580		Coding_Dead		Indian Institute of Technology Madras
-1581		eagles above you		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1582		DeathCode		Indian Institute of Technology Kharagpur
-1583		Code Hunters		PES Institute of Technology, Bangalore
-1584		Thunderboltz		National Institute of Technology, Calicut
-1585		coder_trio		University Institute of Engineering and Technology, Punjab University
-1586		Infinity1729		Anil Neerukonda Institute of Technology and Sciences
-1587		darklords		Netaji Subhas Institute of Technology, New Delhi
-1588		1||0		Galgotias College of Engineering and Technology
-1589		Free Thinkers		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-1590		Fault in our Program		Bannari Amman Institute of Technology
-1591		JSV		Delhi Technological University
-1592		Dangling Ptr		MBM College of Engineering, Jodhpur
-1593		TheCoders		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1594		Peculiars		Vidyalankar Institute of Technology
-1595		sAssasins		National Institute of Technology Agartala
-1596		DAV		National Institute of Technology Raipur
-1597		Turing Knights		Pimpri Chinchwad College of Engineering, Pune
-1598		Xtremehacks		School of Engineering, Cochin University of Science and Technology
-1599		Reserve		ACM ICPC 2016
-1600		DECODERZ		Anil Neerukonda Institute of Technology and Sciences
-1601		HEISENBERG_WHITE		Indian Institute of Technology Delhi
-1602		Noobie		Vellore Institute of Technology, Vellore
-1603		LJS		Indian Institute of Technology, Palakkad
-1604		codebuds		National Institute of Technology, Durgapur
-1605		ThreeMultiplexer		Dharmsinh Desai Institute of Technology
-1606		Dreamers		National Institute of Technology Patna
-1607		CODEPLUS		Netaji Subhas Institute of Technology, New Delhi
-1608		Reserve		ACM ICPC 2016
-1609		Reserve		ACM ICPC 2016
-1610		STORM RIDERS		Thiagarajar College of Engineering
-1611		ExcalibuR		Amrita School of Engineering, Bengaluru
-1612		pointers		Anil Neerukonda Institute of Technology and Sciences
-1613		PeakyBlinders		Birla Institute of Technology Mesra
-1614		sudoManiac		M. H. Saboo Siddik College of Engineering
-1615		coders96		Maharaja Agrasen Institute Of Technology, Baddi, Himachal Pradesh
-1616		Akatsuki		National Institute of Technology Raipur
-1617		All men must code		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1618		factorial		National Institute of Technology Warangal
-1619		hunters123		VNR Vignana Jyothi Institute of Engineering &amp; Technology
-1620		ReturnZero		Pune Institute of Computer Technology
-1621		Coding Saiyans		School of Engineering and Applied Science, Ahmedabad University
-1622		Delta		PES Institute of Technology, Bangalore
-1623		CppNewbies		Amrita School of Engineering, Coimbatore
-1624		CodeForces		Punjab Engineering College, Chandigarh
-1625		Reserve		ACM ICPC 2016
-1626		broken_stars		Sardar Vallabhbhai National Institute of Technology, Surat
-1627		Code Blasters		Visvesvaraya National Institute of Technology, Nagpur
-1628		vendetta		Jaypee Institute of Information Technology
-1629		TechGeeks		Amrita School of Arts and Sciences, Mysore
-1630		VSSUT_Pride3		Veer Surendra Sai University of Technology, Orissa
-1631		Stoners		Jaypee University of Engineering and Technology, Guna
-1632		code busters		Maharaja Surajmal Institute of Technology
-1633		sss		Thapar University
-1634		Hack3		Abes Engineering college, Ghaziabad
-1635		swag		ABV - Indian Institute of Information Technology and Management Gwalior
-1636		FooBar Fighters		Institute of Technology, Nirma University
-1637		GodsAround		Amrita School of Arts and Sciences, Mysore
-1638		Ternary operators		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
-1639		codingphobia		University Institute of Engineering and Technology, Punjab University
-1640		Reserve		ACM ICPC 2016
-1641		Reserve		ACM ICPC 2016
-1642		codeup_18		Birla Institute of Technology Mesra
-1643		mystiko		Maharaja Agrasen Institute Of Technology, Baddi, Himachal Pradesh
-1644		Rocking geeks		University Institute of Engineering and Technology, Punjab University
-1645		destructors		Amrita School of Engineering, Bengaluru
-1646		Code Crakers		Sree Vidyanikethan Engineering College
-1647		Code Fire		Anil Neerukonda Institute of Technology and Sciences
-1648		Reserve		ACM ICPC 2016
-1649		TheCodeHunters		Indian Institute of Technology Kharagpur
-1650		Seg_Fault		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1651		THE GLITCH		Manipal Institute of Technology, Manipal
-1652		gravity		MBM College of Engineering, Jodhpur
-1653		InfinityCoders		Amrita School of Arts and Sciences, Mysore
-1654		Iterators		Institute of Technology, Nirma University
-1655		Inglorious_Titans		Walchand College of Engineering, Sangli
-1656		Fancy Bears		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1657		Inception1		Pimpri Chinchwad College of Engineering, Pune
-1658		Reserve		ACM ICPC 2016
-1659		Blizzards		Indian Institute of Technology, Varanasi
-1660		KRS96		PES Institute of Technology, Bangalore
-1661		Reserve		ACM ICPC 2016
-1662		TheDarkCode		University Institute of Engineering and Technology, Punjab University
-1663		AU_codeinfinity		School of Engineering and Applied Science, Ahmedabad University
-1664		Geekalots		Amrita School of Engineering, Bengaluru
-1665		CodeHackers		Abes Engineering college, Ghaziabad
-1666		rsvcoders		Jawaharlal Nehru Technological University, Vizianagaram
-1667		Clique		Netaji Subhas Institute of Technology, New Delhi
-1668		one&amp;amp;zero		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
-1669		Dynamic coders		YMCA University of Science and Technology, Faridabad
-1670		manitsrk		Maulana Azad National Institute of Technology, Bhopal
-1671		VSSUT_Pride7		Veer Surendra Sai University of Technology, Orissa
-1672		Spaghetti_Coders		Shiv Nadar University, Chithera
-1673		ironfist		Jaypee Institute of Information Technology
-1674		de_coders		Indian Institute of Technology Roorkee
-1675		Code_brewers		Jaypee Institute of Information Technology
-1676		Team Audacious		Madhav Institute of Technology and Science, Gwalior
-1677		pinnacle@001		National Institute of Technology Agartala
-1678		The Iron Kererus		PES Institute of Technology, Bangalore
-1679		codesCOUTs		Jawaharlal Nehru Technological University, Vizianagaram
-1680		Code Breakers		National Institute of Technology Karnataka
-1681		shark attack		VNR Vignana Jyothi Institute of Engineering &amp; Technology
-1682		VSSUT_coding_maniac		Veer Surendra Sai University of Technology, Orissa
-1683		bits_please		National Institute of Technology Tiruchirappalli
-1684		a27		Shiv Nadar University, Chithera
-1685		DILLIGENT DAZZLERS		Sree Vidyanikethan Engineering College
-1686		ZeroGravity		International Institute of Information Technology, Hyderabad
-1687		Microprocessor_x69		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
-1688		WE MAKE IT SIMPLE		Sree Vidyanikethan Engineering College
-1689		Rookies		Delhi Technological University
-1690		djikstras		CMR College of Engineering &amp; Technology, Hyderabad
-1691		eagle_code		Maulana Azad National Institute of Technology, Bhopal
-1692		The Nexus		Abes Engineering college, Ghaziabad
-1693		CODERS OF VESIT		Vivekanand Education Society's Institute of Technology
-1694		Echelon		Maharaja Agrasen Institute Of Technology, Baddi, Himachal Pradesh
-1695		baymax		Rajiv Gandhi University of Knowledge Technologies Basar
-1696		Victorious		PES Institute of Technology, Bangalore
-1697		SwagCoders		PES Institute of Technology, Bangalore
-1698		Ninjas		Walchand College of Engineering, Sangli
-1699		sync03		National Institute of Technology, Durgapur
-1700		CodersVRS		Maulana Azad National Institute of Technology, Bhopal
-1701		mayvard		L D College Of Engineering, Ahmedabad
-1702		let_me_think		Sardar Vallabhbhai National Institute of Technology, Surat
-1703		thegeekhouse		Jaypee Institute of Information Technology
-1704		codestreak		Delhi Technological University
-1705		potent		Amrita School of Engineering, Coimbatore
-1706		MMS		National Institute of Technology, Jamshedpur
-1707		3Bongs		Indian Institute of Science, Bangalore
-1708		Anonymous		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
-1709		3shinigami		Yeshwantrao Chavan College of Engineering College, Nagpur
-1710		NautilusX		Indian Institute of Science, Bangalore
-1711		All_Go_Rhythm		PES Institute of Technology, Bangalore
-1712		progrolics		Birla Institute of Technology Mesra
-1713		dreamCoders		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-1714		Next Gen Coders		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
-1715		codirls		Jaypee Institute of Information Technology
-1716		codethapar		Thapar University
-1717		DC		Amrita School of Engineering, Coimbatore
-1718		Stand Out		Birla Institute of Technology &amp; Science Pilani, Goa Campus
-1719		Infinity		PES Institute of Technology, Bangalore
-1720		mystica_x		Chaitanya Bharathi Institute of Technology
-1721		HodorHodor		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
-1722		CodeCiphers		PES Institute of Technology, Bangalore
-1723		Articuno		National Institute of Technology, Calicut
-1724		Krimiti		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
-1725		ANITS_CODEFREAKS		Anil Neerukonda Institute of Technology and Sciences
-1726		geekgods		Shiv Nadar University, Chithera
-1727		Reserve		ACM ICPC 2016
-1728		Bhoomi		University Visvesvaraya College of Engineering, Bangalore
-1729		VSSUT_Pride2		Veer Surendra Sai University of Technology, Orissa
-1730		The Brainiacs		National Institute of Technology Raipur
-1731		TeamLyle		Netaji Subhas Institute of Technology, New Delhi
-1732		DIVIDE BY ZERO		Amrita University
-1733		dCoders		Sree Vidyanikethan Engineering College
-1734		pwr_puff_galz		Amrita School of Engineering, Coimbatore
-1735		Backslash		Indian Institute of Information Technology Design &amp; Manufacturing, Kancheepuram
-1736		DEdSEc		Amrita School of Engineering, Coimbatore
-1737		RAN_coders		Chandigarh University
-1738		3Musketeers		PES Institute of Technology, Bangalore
-1739		Mega_Coder$		MBM College of Engineering, Jodhpur
-1740		FunCoders		Anil Neerukonda Institute of Technology and Sciences
-1741		The_Optimist		National Institute of Technology Warangal
-1742		Endeavour_SSP		Abes Engineering college, Ghaziabad
-1743		PyJaC		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
-1744		coding freaks		Amrita University
-1745		Codologists		Shiv Nadar University, Chithera
-1746		Coding_penguins		Lovely Professional University
-1747		meancoders		Amrita School of Engineering, Coimbatore
-1748		!NULL		Abes Engineering college, Ghaziabad
-1749		i++		PES Institute of Technology, Bangalore
-1750		Codigo		PES Institute of Technology, Bangalore
-1751		SemiColon		Pimpri Chinchwad College of Engineering, Pune
-1752		asec_coders		Amrita School of Engineering, Coimbatore
-1753		Code Pandas		Mukesh Patel School of Technology Management &amp; Engineering
-1754		yo trio		National Institute of Technology, Calicut
-1755		Reserve		ACM ICPC 2016
-1756		And Yet It Compiles		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
-1757		Print(str(programmers))		Amrita School of Engineering, Amritapuri
-1758		Reserve		ACM ICPC 2016
-1759		Big O&amp;#039;s		Dehradun Institute of Technology
-1760		CodersAID		Mukesh Patel School of Technology Management &amp; Engineering
-1761		The Access Specifiers		Amrita School of Engineering, Coimbatore
-1762		C_Wizardz		Sardar Vallabhbhai National Institute of Technology, Surat
-1763		LPU NOOBS		Lovely Professional University
-1764		bitzkrieg		Dwarkadas Jivanlal Sanghvi College of Engineering, Vile Parle, Mumbai
-1765		Reserve		ACM ICPC 2016
-1766		Debuggersfast		Abes Engineering college, Ghaziabad
-1767		CodeNote		PES Institute of Technology, Bangalore
-1768		codeRUM		Abes Engineering college, Ghaziabad
-1769		JSR		Galgotias College of Engineering and Technology
-1770		Azarias		ABV - Indian Institute of Information Technology and Management Gwalior
-1771		The Dothrookies		Amrita School of Engineering, Bengaluru
-1772		Bits Please!		PES Institute of Technology, Bangalore
-1773		sapphire		Anil Neerukonda Institute of Technology and Sciences
-1774		Thrones		Jaypee University of Engineering and Technology, Guna
-1775		Reserve		ACM ICPC 2016
-1776		codewithpassion		School of Engineering, Cochin University of Science and Technology
-1777		MULTIPLEXER		Birla Institute of Technology Mesra
-1778		codebreakers		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
-1779		HackerZ		VNR Vignana Jyothi Institute of Engineering &amp; Technology
-1780		Struct Coders		PES Institute of Technology, Bangalore
-1781		Bit hackers		Vignan University
-1782		coolhunt		Jaipur Engineering College and Research Centre
-1783		CODE RANGERS		Anil Neerukonda Institute of Technology and Sciences
-1784		VSSUT_Cyphed		Veer Surendra Sai University of Technology, Orissa
-1785		UIET_RISERS		University Institute of Engineering and Technology, Punjab University
-1786		SSM		Delhi Technological University
-1787		M2B		RVS College of Arts and Science, Sulur, Coimbatore
-1788		_AAA_		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1789		penseurs		Jawaharlal Nehru Technological University, Vizianagaram
-1790		Aqua		PES Institute of Technology, Bangalore
-1791		intense3		VNR Vignana Jyothi Institute of Engineering &amp; Technology
-1792		Heisenberg		PES Institute of Technology, Bangalore
-1793		fosscoders		Amrita School of Engineering, Amritapuri
-1794		Codesteins		Dwarkadas Jivanlal Sanghvi College of Engineering, Vile Parle, Mumbai
-1795		Rangers		Pimpri Chinchwad College of Engineering, Pune
-1796		PCUBE123		PES Institute of Technology, Bangalore
-1797		Room-31		Amrita School of Engineering, Amritapuri
-1798		InFiNiTe LoOp		Dwarkadas Jivanlal Sanghvi College of Engineering, Vile Parle, Mumbai
-1799		codereavers		Northern India Engineering College, New Delhi
-1800		BR212		PES Institute of Technology, Bangalore
-1801		bro_code		Vishwakarma Government Engineering College, Chandkheda
-1802		Reserve		ACM ICPC 2016
-1803		expandables		CMR College of Engineering &amp; Technology, Hyderabad
-1804		shoot4themoon		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1805		A_V_S		Veermata Jijabai Technological Institute, Mumbai
-1806		TheGreatest		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
-1807		asp_973		Maulana Azad National Institute of Technology, Bhopal
-1808		CSEGYAN1		L.B.S. College of Engineering, Kasaragod
-1809		Charmander		Thiagarajar College of Engineering
-1810		Nobody		Sardar Vallabhbhai National Institute of Technology, Surat
-1811		Reserve		ACM ICPC 2016
-1812		Codebeans		Sri Sivasubramaniya Nadar College of Engineering, Chennai
-1813		Newflanged		Abes Engineering college, Ghaziabad
-1814		coders007		Abes Engineering college, Ghaziabad
-1815		Carpe Diem		Manipal University Jaipur
-1816		euphoria		Abes Engineering college, Ghaziabad
-1817		unknown_hosts		Amrita School of Engineering, Amritapuri
-1818		Knights		Pimpri Chinchwad College of Engineering, Pune
-1819		Bitsian Psychos		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1820		THE_CAPABLES		ABV - Indian Institute of Information Technology and Management Gwalior
-1821		TechProMinds		Dwarkadas Jivanlal Sanghvi College of Engineering, Vile Parle, Mumbai
-1822		Exclaimers		KC College of Engineering, Thane 
-1823		DreamInCode		Sree Vidyanikethan Engineering College
-1824		ProCoders		Indira Gandhi Delhi Technical University for Women
-1825		Reserve		ACM ICPC 2016
-1826		Renascent_cipher		Abes Engineering college, Ghaziabad
-1827		code_geekz		Anil Neerukonda Institute of Technology and Sciences
-1828		Noob Brigade		Manipal University Jaipur
-1829		c117		Amrita School of Engineering, Coimbatore
-1830		VIVID		HMR Institute of Technology and Management , New Delhi
-1831		Reserve		ACM ICPC 2016
-1832		Reserve		ACM ICPC 2016
-1833		STS Coders		Vivekanand Education Society's Institute of Technology
-1834		Code Challengers		Sree Vidyanikethan Engineering College
-1835		Wisdom		Amrita School of Engineering, Coimbatore
-1836		KAP		Anil Neerukonda Institute of Technology and Sciences
-1837		Reserve		ACM ICPC 2016
-1838		sophomores		Amrita School of Engineering, Coimbatore
-1839		Anonymous123		Amrita School of Engineering, Coimbatore
-1840		Not Interested		Amrita School of Engineering, Bengaluru
-1841		TriCoders		Amrita School of Arts and Sciences, Mysore
-1842		YELLOW FLASH		Anil Neerukonda Institute of Technology and Sciences
-1843		Cynosure		Pimpri Chinchwad College of Engineering, Pune
-1844		Void		Sardar Vallabhbhai National Institute of Technology, Surat
-1845		Reserve		ACM ICPC 2016
-1846		Reserve		ACM ICPC 2016
-1847		DKoderz		Amrita School of Arts and Sciences, Mysore
-1848		RMRF		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
-1849		Siravian		Bharati Vidyapeeth's College of Engineering, New Delhi
-1850		Lightsout		CMR College of Engineering &amp; Technology, Hyderabad
-1851		cbit-ith1Boys		Chaitanya Bharathi Institute of Technology
-1852		Reserve		ACM ICPC 2016
-1853		abc		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
-1854		WeWill		Shri Ramdeobaba College of Engineering and Management, Nagpur
-1855		Team ANA		International Institute of Information Technology, Hyderabad
-1856		codemessy		Manakula Vinayagar Institute of Technology, Puducherry
-1857		codeziners		CMR College of Engineering &amp; Technology, Hyderabad
-1858		VESIT_IT_1		Vivekanand Education Society's Institute of Technology
-1859		The Technocrates		Abes Engineering college, Ghaziabad
-1860		jawariyas		Maulana Azad National Institute of Technology, Bhopal
-1861		Shield Brothers		RVS College of Arts and Science, Sulur, Coimbatore
-1862		Reserve		ACM ICPC 2016
-1863		GENXCODERS		HMR Institute of Technology and Management , New Delhi
-1864		Reserve		ACM ICPC 2016
-1865		Reserve		ACM ICPC 2016
-1866		BAN anonymous		Amrita School of Engineering, Bengaluru
-1867		#include&amp;lt;ciphers&amp;gt;		Amrita School of Engineering, Bengaluru
-1868		karna		PES Institute of Technology, Bangalore
-1869		codebit		Maharaja Surajmal Institute of Technology
-1870		SaveYourSoul		Thapar University
-1871		warriors		Dwarkadas Jivanlal Sanghvi College of Engineering, Vile Parle, Mumbai
-1872		CODE D CODERS		Sree Vidyanikethan Engineering College
-1873		Technokats		PES Institute of Technology, Bangalore
-1874		LMN		Amrita School of Engineering, Bengaluru
-1875		Reserve		ACM ICPC 2016
-1876		Reserve		ACM ICPC 2016
-1877		#SudoCoder		Sardar Vallabhbhai National Institute of Technology, Surat
-1878		Fourteam		Amrita University
-1879		Code diffusers		PES Institute of Technology, Bangalore
-1880		HailHarambe!		Amrita School of Engineering, Bengaluru
-1881		Tortuga		PES Institute of Technology, Bangalore
-1882		codeitup		Mukesh Patel School of Technology Management &amp; Engineering
-1883		The Invincibles		Sardar Vallabhbhai National Institute of Technology, Surat
-1884		#define		PES Institute of Technology, Bangalore
-1885		CSEGYAN2		L.B.S. College of Engineering, Kasaragod
-1886		Reserve		ACM ICPC 2016
-1887		venom		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
-1888		VSSUT_Pride1		Veer Surendra Sai University of Technology, Orissa
-1889		Reserve		ACM ICPC 2016
-1890		MNP CSE		PES Institute of Technology, Bangalore
-1891		Reserve		ACM ICPC 2016
-1892		Codediva		Indira Gandhi Delhi Technical University for Women
-1893		CoderZ		Anil Neerukonda Institute of Technology and Sciences
-1894		Reserve		ACM ICPC 2016
-1895		Code_Trinity		Sree Vidyanikethan Engineering College
+286		threeface		Delhi Technological University
+287		Yuphoria		Netaji Subhas Institute of Technology, New Delhi
+288		VeniVidiVici		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
+289		Zero_by_Zero		Indian Institute of Information Technology, Allahabad
+290		Hopeless		Indian Institute of Technology Kharagpur
+291		SABOTEURS		National Institute of Technology Karnataka
+292		NaamMeKyaRakha		Indian Institute of Technology Mandi
+293		Sandbox		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
+294		khaliJeb		Indian Institute of Information Technology, Allahabad
+295		ignatius		National Institute of Technology Warangal
+296		NITTWITS		National Institute of Technology Tiruchirappalli
+297		aar_ya_paar		Indian Institute of Technology Roorkee
+298		Kodiyapa2102		Motilal Nehru National Institute of Technology Allahabad
+299		code_warriors		Indian Institute of Technology Bombay
+300		dead@coders		Motilal Nehru National Institute of Technology Allahabad
+301		n82696		Indian Institute of Technology, Varanasi
+302		IDENTITY		Birla Institute of Technology Mesra
+303		WaTleAc		Birla Institute of Technology Mesra
+304		Logical-Freaks		Indian Institute of Technology Delhi
+305		aeCodeHaiMushkil		Indian Institute of Information Technology, Allahabad
+306		chotu_chatni		Indian Institute of Information Technology, Allahabad
+307		PikaPi		Indian Institute of Technology, Varanasi
+308		factors		National Institute of Technology Warangal
+309		Brains_In_Jars		Motilal Nehru National Institute of Technology Allahabad
+310		CrazyDot		Indian Institute of Technology Patna
+311		shunyaB		Indian Institute of Technology Bombay
+312		package		Indian Institute of Technology Delhi
+313		Hacketh_Launde		Indian Institute of Technology, Varanasi
+314		LongTimeNoC		Indian Institute of Technology Kanpur
+315		Sab_moh_maya_hai		National Institute of Technology, Kurukshetra
+316		rohangarg		Indraprastha Institute of Information Technology, Delhi
+317		High_Rollers		Netaji Subhas Institute of Technology, New Delhi
+318		Intuition		Motilal Nehru National Institute of Technology Allahabad
+319		sui_generis		Indraprastha Institute of Information Technology, Delhi
+320		n00bs_at_code		Indian Institute of Technology Roorkee
+321		$//@G Overflow		Indian Institute of Technology Indore
+322		NAG10		Indian Institute of Technology Roorkee
+323		Trio		Indian Institute of Technology Roorkee
+324		segmentation_fault		National Institute of Technology, Jamshedpur
+325		stay_started		Maulana Azad National Institute of Technology, Bhopal
+326		FaulTLEss		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
+327		Marksmen		Delhi Technological University
+328		voidmain16		Netaji Subhas Institute of Technology, New Delhi
+329		C2H4O		Indian Institute of Technology Roorkee
+330		flow_chart		National Institute of Technology, Jamshedpur
+331		ASD		Indian Institute of Technology Roorkee
+332		bro-code		Indian Institute of Technology Madras
+333		Zetta_byte		Indian Institute of Technology, Jodhpur
+334		nocturnal_space		Indian Institute of Technology, Varanasi
+335		smartzero		Indian School of Mines
+336		Magicians		Indian Institute of Technology Delhi
+337		O(logn)		Netaji Subhas Institute of Technology, New Delhi
+338		next_permutation		Delhi Technological University
+339		THE_HUMAN		Indian Institute of Information Technology, Allahabad
+340		Victorious Secret		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
+341		PaneerPakora		Indian Institute of Technology Kanpur
+342		S9631245426		Indian School of Mines
+343		SuperSaiyans		Delhi Technological University
+344		jobless		Birla Institute of Technology Mesra
+345		sharpwits		Indian Institute of Technology Patna
+346		ideas_are_bulletproof		Indian Institute of Information Technology, Allahabad
+347		Coders-Kgp		Indian Institute of Technology Kharagpur
+348		Paradigm		Indian Institute of Technology Delhi
+349		k3rn3l_panic		Indian Institute of Technology Indore
+350		Loophole		Netaji Subhas Institute of Technology, New Delhi
+351		You just read the team name		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
+352		Naruto		Birla Institute of Technology Mesra
+353		three_bits		Indian Institute of Technology, Varanasi
+354		Turing_Machine		Motilal Nehru National Institute of Technology Allahabad
+355		GCD		Netaji Subhas Institute of Technology, New Delhi
+356		Exponential		Delhi Technological University
+357		MAH_Coders		Indian Institute of Technology, Varanasi
+358		85k_plus_accomodation		Indraprastha Institute of Information Technology, Delhi
+359		Puzzles		Netaji Subhas Institute of Technology, New Delhi
+360		Paradox_Crackers		Indian Institute of Technology, Varanasi
+361		dvr_123		Indian Institute of Technology, Varanasi
+362		treeBitsians		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
+363		How_U_Doin		Indian School of Mines
+364		407 Crew		Indraprastha Institute of Information Technology, Delhi
+365		backslashn		Motilal Nehru National Institute of Technology Allahabad
+366		Dark_Matter		Indian Institute of Technology Delhi
+367		AedhoOnnuVei		Birla Institute of Technology &amp; Science Pilani, Goa Campus
+368		neversatisfied		Jaypee Institute of Information Technology
+369		cyclictree		Indian Institute of Technology Ropar
+370		codor		Indian Institute of Technology, Varanasi
+371		DcodeDragon		Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
+372		redHack		Birla Institute of Technology Mesra
+373		!nfinity		Indian Institute of Technology Bombay
+374		PiedPiper		Delhi Technological University
+375		segf		Indian Institute of Technology Kharagpur
+376		abc.wtf		Birla Institute of Technology Mesra
+377		face_less_men		Indian Institute of Technology Kharagpur
+378		Fusion		Birla Institute of Technology Mesra
+379		H+A+M		Jamia Millia Islamia
+380		Maniac_reloaded		Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
+381		void_maniacs		Indian Institute of Technology Kharagpur
+382		MemoryLeak		Indian Institute of Technology Madras
+383		Phoenix_		Indian Institute of Technology Indore
+384		Bug Busters		Indian Institute of Technology Madras
+385		2016_cse_iitb_Codificadores		Indian Institute of Technology Bombay
+386		hash		Birla Institute of Technology Mesra
+387		IIITD GNU		Indraprastha Institute of Information Technology, Delhi
+388		iFilter		Indian Institute of Technology Kharagpur
+389		basic_coders		Indian Institute of Technology Kharagpur
+390		Nougat		Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
+391		kuchbhi_		Indian Institute of Technology Bombay
+392		EtTuBruteForce		Indian Institute of Technology Guwahati
+393		No_Handle		Birla Institute of Technology Mesra
+394		included		National Institute of Technology Warangal
+395		lost_code		Indian Institute of Technology, Varanasi
+396		bits_plzzz		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
+397		JustForPizza		Indian Institute of Technology Bombay
+398		Invictus		Indian Institute of Technology Bombay
+399		XYZ		Netaji Subhas Institute of Technology, New Delhi
+400		Team Harambe		National Institute of Technology Karnataka
+401		Enfilades		Indian Institute of Technology Guwahati
+402		correct-answer		Indian Institute of Technology Kanpur
+403		UprisingRivals		Motilal Nehru National Institute of Technology Allahabad
+404		Heisenberg&amp;#039;s Hitmen		Indian Institute of Technology Indore
+405		Alliance		Indian Institute of Technology Guwahati
+406		noodlez		Motilal Nehru National Institute of Technology Allahabad
+407		code_freaks		Indian Institute of Technology Guwahati
+408		COLDPLAY		Birla Institute of Technology Mesra
+409		CoreDump		Indian Institute of Technology Delhi
+410		Dream_Hackerz		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
+411		Djikstrikers		Indian Institute of Technology, Hyderabad
+412		alphaq_		Motilal Nehru National Institute of Technology Allahabad
+413		NDTM		Indian Institute of Technology Guwahati
+414		Trajectory		Indian Institute of Technology Madras
+415		Grandmasters		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
+416		UnusualBanana		Maulana Azad National Institute of Technology, Bhopal
+417		Sobhad		Indian Institute of Technology Ropar
+418		ADA		Netaji Subhas Institute of Technology, New Delhi
+419		Non Coders		Indian Institute of Technology Kanpur
+420		DA_CODECRACKERS		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
+421		Duals		National Institute of Technology, Rourkela
+422		KnightFall		Maulana Azad National Institute of Technology, Bhopal
+423		bars4bits		Birla Institute of Technology &amp; Science Pilani, Goa Campus
+424		OpTiMiZe		Indian Institute of Technology Indore
+425		codavatar		Indian Institute of Technology, Hyderabad
+426		Three Musketeers		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
+427		ILLUMINATI		Indian Institute of Engineering Science and Technology, Shibpur
+428		TheWereWolves		Army Institute of Technology, Pune
+429		sudo_get-AC		National Institute of Technology Karnataka
+430		Invictus3		Indian Institute of Information Technology, Allahabad
+431		Epiphany		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
+432		The Bogosorts		National Institute of Technology, Calicut
+433		Chill_N_Kill		National Institute of Technology Karnataka
+434		X		Indian Institute of Technology Kharagpur
+435		SabSambhavHai		Indraprastha Institute of Information Technology, Delhi
+436		Wikings		Indian Institute of Technology, Hyderabad
+437		DA_LearningToCode		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
+438		Interstellars		Indian Institute of Engineering Science and Technology, Shibpur
+439		Valkyrie		Indian Institute of Engineering Science and Technology, Shibpur
+440		algomakers		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
+441		Bylders		Indraprastha Institute of Information Technology, Delhi
+442		good_bad_ugly		Indian Institute of Technology, Hyderabad
+443		stone_paper_scissors		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
+444		Hax0rs		Indian Institute of Technology Delhi
+445		code_masters		Sardar Vallabhbhai National Institute of Technology, Surat
+446		bytecode		Indian Institute of Technology Madras
+447		middleout		Sardar Vallabhbhai National Institute of Technology, Surat
+448		kramaadeshak		Indian Institute of Technology, Hyderabad
+449		JAM		Indian Institute of Technology Guwahati
+450		sudoCode		Indian Institute of Technology Indore
+451		newcoders		Indian Institute of Technology Kanpur
+452		ProjectX		Jaypee Institute of Information Technology
+453		the greycoders		International Institute of Information Technology, Bangalore
+454		NullByte		National Institute of Technology Karnataka
+455		Hashpi		Delhi Technological University
+456		JARVIS		Indian Institute of Information Technology, Allahabad
+457		fanatical		Indian Institute of Information Technology, Design and Manufacturing, Jabalpur
+458		Radix		PES Institute of Technology, Bangalore
+459		Te3npathas		Indian Institute of Technology, Hyderabad
+460		Rhooters		Indian Institute of Technology Guwahati
+461		nlogncoders		Indian Institute of Technology, Jodhpur
+462		Prologue		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
+463		friendzoned_coders		Indian Institute of Technology Kharagpur
+464		codec_dtu		Delhi Technological University
+465		triplethreat		Birla Institute of Technology &amp; Science Pilani, Goa Campus
+466		black_zero		Delhi Technological University
+467		Minion Module		International Institute of Information Technology, Bangalore
+468		The FlashCoders		Indian Institute of Technology Madras
+469		Code Freaks		Indian Institute of Technology Madras
+470		qwertyCo		Indian Institute of Technology Madras
+471		Bhai_da_Tashan		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
+472		segmenriders2136		Indian Institute of Technology, Hyderabad
+473		Abelians		Indian Institute of Technology Guwahati
+474		Matrix		Visvesvaraya National Institute of Technology, Nagpur
+475		CodeRangers		Indian Institute of Technology, Hyderabad
+476		apriori		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
+477		Limbo		Indian Institute of Technology Kanpur
+478		Pilani_Pirates		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
+479		serial_coders		Indian School of Mines
+480		mass_bunk		Indian Institute of Technology Kharagpur
+481		DBug		National Institute of Technology Silchar
+482		dotSlash		National Institute of Technology, Jamshedpur
+483		3_strangers		Maulana Azad National Institute of Technology, Bhopal
+484		b___b		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
+485		Atapatu		Indraprastha Institute of Information Technology, Delhi
+486		vegaviralgal		Indian Institute of Technology Madras
+487		Nameless		The LNM Institute of Information Technology, Jaipur
+488		The_minions		Indian Institute of Technology Ropar
+489		youdontknowus		Jaypee Institute of Information Technology
+490		NITRkl_TLE		National Institute of Technology, Rourkela
+491		Heuristic		Visvesvaraya National Institute of Technology, Nagpur
+492		lighteningtriad		Indian Institute of Technology Kanpur
+493		InternWaale		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
+494		i-freaks		National Institute of Technology, Calicut
+495		Dauntless		Indian Institute of Technology Delhi
+496		DOVE_TEAM		University School of Information Technology
+497		Horcrux		Indian School of Mines
+498		BUG_FREE		Indian Institute of Technology Guwahati
+499		chai_sutta		Birla Institute of Technology &amp; Science Pilani, Pilani Campus
+500		clinical_finishers		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
+501		Code Brains		PES Institute of Technology, Bangalore
+502		GoGo&amp;#039;s		Indraprastha Institute of Information Technology, Delhi
+503		Awsome_Coders		Chennai Mathematical Institute
+504		teamJ		Indraprastha Institute of Information Technology, Delhi
+505		legion		National Institute of Technology Tiruchirappalli
+506		HashCode		Indian School of Mines
+507		encoders_decoders		National Institute of Technology Agartala
+508		brute_force		National Institute of Technology, Durgapur
+509		ninjas_in_pyjamas		Birla Institute of Technology &amp; Science Pilani, Goa Campus
+510		sad_coders		National Institute of Technology Agartala
+511		AC Hunters		Sri Sivasubramaniya Nadar College of Engineering, Chennai
+512		core_dump		National Institute of Technology Karnataka
+513		TRIPLESSS		Abes Engineering college, Ghaziabad
+514		XBruteforce		Indian School of Mines
+515		ACE		Indian Institute of Technology Delhi
+516		CodeBroken		Indian Institute of Technology Mandi
+517		Garbage Collectors		Indian Institute of Technology Ropar
+518		Illusionists		Pune Institute of Computer Technology
+519		3tourists		National Institute of Technology, Calicut
+520		Re Sultan		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
+521		haonabey		Visvesvaraya National Institute of Technology, Nagpur
+522		TumseNaHoga		Jaypee Institute of Information Technology
+523		coding_ninjas		Maulana Azad National Institute of Technology, Bhopal
+524		bit_shift_		Jaypee Institute of Information Technology
+525		overflow		Indian Institute of Technology Madras
+526		twisted_fate		Jaypee Institute of Information Technology
+527		PawnStars		Maulana Azad National Institute of Technology, Bhopal
+528		Jedi_knights		National Institute of Technology, Durgapur
+529		CodeMinions		Shri Mata Vaishno Devi University
+530		hashcoders		Birla Institute of Technology &amp; Science Pilani, Goa Campus
+531		while(true)		SASTRA University
+532		decoders		ABV - Indian Institute of Information Technology and Management Gwalior
+533		BandofBrothers		Jaypee Institute of Information Technology
+534		codelearner		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
+535		Not_Yet		Indian Institute of Information Technology, Sri City
+536		recuri0n		National Institute of Technology Patna
+537		NonoGogoJojo		YMCA University of Science and Technology, Faridabad
+538		RedBlack_T		National Institute of Technology Silchar
+539		Darkrai		Indian Institute of Technology Indore
+540		Surprised?		Jaypee Institute of Information Technology
+541		kins		Birla Institute of Technology &amp; Science Pilani, Goa Campus
+542		Blue_Coders		Manipal Institute of Technology, Manipal
+543		algomonks		National Institute of Technology Silchar
+544		DNA		ABV - Indian Institute of Information Technology and Management Gwalior
+545		CarpeNoctem		Pune Institute of Computer Technology
+546		Aam Aadmi Coders		Manipal Institute of Technology, Manipal
+547		A team has no name		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
+548		dream_3eam		Pune Institute of Computer Technology
+549		SNUNIX		Shiv Nadar University, Chithera
+550		hXh		PES Institute of Technology, Bangalore
+551		binary_bandits		Jaypee Institute of Information Technology
+552		lite_max		Birla Institute of Technology &amp; Science Pilani, Goa Campus
+553		frost_bite		Jaypee Institute of Information Technology
+554		BIGFLYASH		Punjab Engineering College, Chandigarh
+555		DieHard		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
+556		noobCoup		Indraprastha Institute of Information Technology, Delhi
+557		crypt3rs		National Institute of Technology, Kurukshetra
+558		Pythagorean Triples		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
+559		highoncode		Manipal Institute of Technology, Manipal
+560		croaking_toads		Shiv Nadar University, Chithera
+561		jaiho_1		National Institute of Technology, Jamshedpur
+562		Bits and Bytes		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
+563		TryToCode		Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
+564		blessed		Indian School of Mines
+565		hbti_coders		Harcourt Butler Technological Institute, Kanpur
+566		Kundaka Mandaka		College of Engineering, Guindy
+567		rrs_nitd		National Institute of Technology, Durgapur
+568		tourists		Indian Institute of Technology Indore
+569		Order Zero		Indian Institute of Technology Guwahati
+570		ART@ROOT		Indian Institute of Technology Guwahati
+571		paryataks		Army Institute of Technology, Pune
+572		PolyMaths		Punjab Engineering College, Chandigarh
+573		arrowinfinity		Maulana Azad National Institute of Technology, Bhopal
+574		BCOMPANY		ABV - Indian Institute of Information Technology and Management Gwalior
+575		nesmnil		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
+576		aas_pass		Kamla Nehru Institute of Technology, Sultanpur, India
+577		Contagious Intelligence		Sardar Vallabhbhai National Institute of Technology, Surat
+578		DIG_MINDS		ABV - Indian Institute of Information Technology and Management Gwalior
+579		Tyrogeeks		National Institute of Technology, Calicut
+580		Dark_Souls		National Institute of Technology, Durgapur
+581		fifa_coder		National Institute of Technology, Durgapur
+582		dream__killers		Jaypee Institute of Information Technology
+583		Hackslash		Indian Institute of Information Technology, Lucknow
+584		Trojans		Sri Sivasubramaniya Nadar College of Engineering, Chennai
+585		Zombies		Pune Institute of Computer Technology
+586		break_d_walls		National Institute of Technology, Durgapur
+587		bit_map		Indian School of Mines
+588		VictoriousSecret		Birla Institute of Technology &amp; Science Pilani, Goa Campus
+589		jungleecoder		National Institute of Technology, Hamirpur
+590		tomatoes		National Institute of Technology Karnataka
+591		DreamOn		Indian Institute of Technology Patna
+592		loopers		Birla Institute of Technology, Patna
+593		yash-sai-sam		National Institute of Technology Warangal
+594		hackslash03		Maulana Azad National Institute of Technology, Bhopal
+595		three_kages		Indian Institute of Technology Indore
+596		JSquad		National Institute of Technology, Durgapur
+597		Rumpelstiltskin		Indian Institute of Technology, Jodhpur
+598		LevelSeven		National Institute of Technology Karnataka
+599		LiteCoders		Vellore Institute of Technology, Vellore
+600		CodeBusters		Guru Tegh Bahadur Institute of Technology, New Delhi
+601		The_Dictators		National Institute of Technology, Jamshedpur
+602		Encoders		National Institute of Technology Agartala
+603		CODE_HACK		National Institute of Technology Karnataka
+604		Agile		Birla Institute of Technology &amp; Science Pilani, Hyderabad Campus
+605		ggmax123		Birla Institute of Technology &amp; Science Pilani, Goa Campus
+606		InfinityPlusOne		Indian School of Mines
+607		Team-&amp;gt;Arrow		Indian Institute of Technology, Hyderabad
+608		Bachmanity_Insanity		College of Engineering, Guindy
+609		Logic Monks		ABV - Indian Institute of Information Technology and Management Gwalior
+610		CodePAN		Indian Institute of Technology Madras
+611		Error		Sardar Vallabhbhai National Institute of Technology, Surat
+612		DEADLOCK003		National Institute of Technology Agartala
+613		DVD		Malaviya National Institute of Technology, Jaipur
+614		turingbots		L D College Of Engineering, Ahmedabad
+615		Jokers_vga		National Institute of Technology, Jamshedpur
+616		netgg		Birla Institute of Technology &amp; Science Pilani, Goa Campus
+617		alpha_queue		National Institute of Technology, Durgapur
+618		CODE TLE		University School of Information Technology
+619		ACODERS		Punjab Engineering College, Chandigarh
+620		dangling_coders		National Institute of Technology, Hamirpur
+621		codevision		National Institute of Technology, Hamirpur
+622		Trinitty		Indian School of Mines
+623		ascii_mit		Manipal Institute of Technology, Manipal
+624		Byte Breakers		SASTRA University
+625		pseudomen		Veermata Jijabai Technological Institute, Mumbai
+626		TEAM 11		Sri Sivasubramaniya Nadar College of Engineering, Chennai
+627		Detanglers		National Institute of Technology, Kurukshetra
+628		O(1)		Shri Mata Vaishno Devi University
+629		Lousy Coders		National Institute of Technology, Durgapur
+630		KRcoders		National Institute of Technology Warangal
+631		Coderans		National Institute of Technology Agartala
+632		Vishers		National Institute of Technology, Jamshedpur
+633		FastAndFourier		Birla Institute of Technology &amp; Science Pilani, Goa Campus
+634		Ones &amp;amp; Zeros		Sri Sivasubramaniya Nadar College of Engineering, Chennai
+635		Tejas		Institute of Technology, Nirma University
+636		Logical fools		SASTRA University
+637		thegoldentrio		Manipal Institute of Technology, Manipal
+638		Dark Knight		Punjab Engineering College, Chandigarh
+639		The Livsnjutares		Indian Institute of Information Technology, Kalyani
+640		CEG		College of Engineering, Guindy
+641		B.A.D. Coders		Institute of Technology, Nirma University
+642		nographs		Guru Tegh Bahadur Institute of Technology, New Delhi
+643		Three muskets		PES Institute of Technology, Bangalore
+644		Arbitrary		National Institute of Technology, Calicut
+645		knows_no_algo		National Institute of Technology Patna
+646		Codiyappa		University School of Information Technology
+647		victorious_secrets		Indian Institute of Technology, Jodhpur
+648		TheNullPointers		Maulana Azad National Institute of Technology, Bhopal
+649		Encrypters		Visvesvaraya National Institute of Technology, Nagpur
+650		flash-streak		YMCA University of Science and Technology, Faridabad
+651		tictactoe		Dwarkadas Jivanlal Sanghvi College of Engineering, Vile Parle, Mumbai
+652		Tyro		Visvesvaraya National Institute of Technology, Nagpur
+653		Need_For_SpeeD		National Institute of Technology, Durgapur
+654		AKA		Manipal Institute of Technology, Manipal
+655		IdeaOne		The LNM Institute of Information Technology, Jaipur
+656		DPWaaleBabu		The LNM Institute of Information Technology, Jaipur
+657		lazy_coders		Birla Institute of Technology, Patna
+658		the_force		Manipal Institute of Technology, Manipal
+659		F_Society		National Institute of Technology, Rourkela
+660		CODEJALEBI		Malaviya National Institute of Technology, Jaipur
+661		manit_specials		Maulana Azad National Institute of Technology, Bhopal
+662		MNITCodeMonks		Malaviya National Institute of Technology, Jaipur
+663		bitplease		Institute of Technology, Nirma University
+664		hackerex		National Institute of Technology, Jamshedpur
+665		PSG TECHIANS		PSG College of Technology, Coimbatore
+666		ASKARP		National Institute of Technology, Rourkela
+667		Hot Heads		Indian Institute of Engineering Science and Technology, Shibpur
+668		incognitos		Walchand College of Engineering, Sangli
+669		byte_coders		National Institute of Technology, Jamshedpur
+670		V_R_Stalwarts		University of Petroleum and Energy Studies, Dehradun
+671		Codeagle		Indian Institute of Technology, Hyderabad
+672		nofsgiven		Amrita School of Engineering, Coimbatore
+673		SAP		Indian Institute of Information Technology, Sri City
+674		team_iit_ropar_7		Indian Institute of Technology Ropar
+675		Sicarius		ABV - Indian Institute of Information Technology and Management Gwalior
+676		flowcode		National Institute of Technology, Rourkela
+677		b15cs@3		National Institute of Technology, Calicut
+678		TeamCoders		Maharaja Agrasen Institute Of Technology, Baddi, Himachal Pradesh
+679		coderap		Punjab Engineering College, Chandigarh
+680		Wizards		SASTRA University
+681		_bugpipers_		JK Institute of Applied Physics and Technology,University of Allahabad
+682		Northerners		Institute of Engineering &amp; Management, Kolkata
+683		Codhackers		Institute of Technology, Nirma University
+684		FALCONS		National Institute of Technology Warangal
+685		Ares		Sri Sivasubramaniya Nadar College of Engineering, Chennai
+686		Team123		Jamia Millia Islamia
+687		boolean3		Lovely Professional University
+688		nova101		Maulana Azad National Institute of Technology, Bhopal
+689		Random_123		The LNM Institute of Information Technology, Jaipur
+690		lazy_redoc		National Institute of Technology Silchar
+691		IIITMG4		ABV - Indian Institute of Information Technology and Management Gwalior
+692		codebros2		Maharaja Surajmal Institute of Technology
+693		vim-ulators		Birla Institute of Technology Jaipur
+694		NewBEES		Malaviya National Institute of Technology, Jaipur
+695		Heisenbugs		PES Institute of Technology, Bangalore
+696		Coderithm		PES Institute of Technology, Bangalore
+697		De Coders		National Institute of Technology, Calicut
+698		DBZ		School of Engineering, Cochin University of Science and Technology
+699		coders_tss		Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
+700		Dexters		National Institute of Technology, Durgapur
+701		404_not_found		National Institute of Technology Raipur
+702		vertex_cover		Maharaja Surajmal Institute of Technology
+703		TrieHard		VIT University, Chennai
+704		Pow_bhaji		Indian Institute of Information Technology, Kalyani
+705		MIC-III		National Institute of Technology, Calicut
+706		Teams.name( )		YMCA University of Science and Technology, Faridabad
+707		fork_bomb		National Institute of Technology Tiruchirappalli
+708		CodeMasters		Maharaja Agrasen Institute Of Technology, Baddi, Himachal Pradesh
+709		Tech Knights		Sardar Vallabhbhai National Institute of Technology, Surat
+710		CoderIT		National Institute of Technology Raipur
+711		Code Wizards		National Institute of Technology Raipur
+712		kgmteam		Punjab Engineering College, Chandigarh
+713		Exemplo_Ducemus		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
+714		primes		National Institute of Technology Warangal
+715		Pluto		Sri Sivasubramaniya Nadar College of Engineering, Chennai
+716		RememberUs		L D College Of Engineering, Ahmedabad
+717		VITCC3		VIT University, Chennai
+718		We-are-NO-ONE		Indian Institute of Information Technology, Design and Manufacturing, Jabalpur
+719		intelbees		Indian Institute of Information Technology Design &amp; Manufacturing, Kancheepuram
+720		Harmony		Maharaja Surajmal Institute of Technology
+721		brainjam		Indian Institute of Information Technology, Design and Manufacturing, Jabalpur
+722		CODEGEAS		ABV - Indian Institute of Information Technology and Management Gwalior
+723		UNITE_3		National Institute of Technology, Calicut
+724		DasCoder		Indian Institute of Technology, Hyderabad
+725		KillingStreak		Amrita School of Engineering, Bengaluru
+726		White		Birla Institute of Technology, Patna
+727		Neuron		Chaitanya Bharathi Institute of Technology
+728		Null		National Institute of Technology Silchar
+729		The Matrix		PES Institute of Technology, Bangalore
+730		pioneer_bvp		Bharati Vidyapeeth's College of Engineering, New Delhi
+731		golden rule		University School of Information Technology
+732		StarPantz		SASTRA University
+733		Turing		National Institute of Technology Warangal
+734		O(msv)		Amrita School of Engineering, Coimbatore
+735		GNA		Sri Sivasubramaniya Nadar College of Engineering, Chennai
+736		while(1)		University Institute of Engineering and Technology, Punjab University
+737		Breaking Bugs		Manipal Institute of Technology, Manipal
+738		Tomcat		Sri Sivasubramaniya Nadar College of Engineering, Chennai
+739		VESIT_SAINTS		Vivekanand Education Society's Institute of Technology
+740		canon		Indian Institute of Technology Ropar
+741		Sambhav		Institute of Technology, Nirma University
+742		MAVericks		Walchand College of Engineering, Sangli
+743		Ravenclaw		ABV - Indian Institute of Information Technology and Management Gwalior
+744		CodeX		Lovely Professional University
+745		Metasyntactic		Maharaja Agrasen Institute Of Technology, Baddi, Himachal Pradesh
+746		The UnderDogs		Sardar Vallabhbhai National Institute of Technology, Surat
+747		Constants		PES Institute of Technology, Bangalore
+748		sab_tourist		Visvesvaraya National Institute of Technology, Nagpur
+749		Eunoia		Punjab Engineering College, Chandigarh
+750		GIANT CODER		Institute of Engineering &amp; Technology, M.J.P. Rohilkhand University
+751		dividedbyzero		National Institute of Technology Warangal
+752		assault		Walchand College of Engineering, Sangli
+753		Dashboard		National Institute of Technology, Calicut
+754		NOVICE		ABV - Indian Institute of Information Technology and Management Gwalior
+755		Phoenix		PES Institute of Technology, Bangalore
+756		BitsPrettyPlease		PES Institute of Technology, Bangalore
+757		a2a		Amrita University
+758		Code Trinity		National Institute of Technology, Calicut
+759		Bit_Breakers		National Institute of Technology Agartala
+760		ShadowNinjas		Thapar University
+761		Palakkad Titans		Indian Institute of Technology, Palakkad
+762		CodeBlood		Indian Institute of Technology Indore
+763		Nitj_14		Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
+764		Team_Spirit		Visvesvaraya National Institute of Technology, Nagpur
+765		lol_da		National Institute of Technology Tiruchirappalli
+766		VPNcoders		The LNM Institute of Information Technology, Jaipur
+767		StronglyConnected		Dwarkadas Jivanlal Sanghvi College of Engineering, Vile Parle, Mumbai
+768		code_rangers		Punjab Engineering College, Chandigarh
+769		code_jammers		JSS Academy of Technical Education, Noida
+770		CodeLimits		Dwarkadas Jivanlal Sanghvi College of Engineering, Vile Parle, Mumbai
+771		fugitives		Army Institute of Technology, Pune
+772		monsat		Birla Institute of Technology, Patna
+773		XORavars		School of Engineering and Applied Science, Ahmedabad University
+774		Sarvatra		Veer Surendra Sai University of Technology, Orissa
+775		Matrix		Indian Institute of Information Technology, Sri City
+776		Lumos		PES Institute of Technology, Bangalore
+777		codeless		Guru Tegh Bahadur Institute of Technology, New Delhi
+778		Reserve		ACM ICPC 2016
+779		daemon_panic		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
+780		fcuksociety		Pimpri Chinchwad College of Engineering, Pune
+781		NewComers		Techno India Salt Lake
+782		Wecode		University Institute of Engineering and Technology, Punjab University
+783		Tech-Knights		Visvesvaraya National Institute of Technology, Nagpur
+784		Codefellas		Institute of Technology, Nirma University
+785		Psuedo Coders		National Institute of Technology Warangal
+786		The Coding Owls		Amrita School of Engineering, Bengaluru
+787		CODEBURN		BMS College of Engineering, Bangalore
+788		DaughtersOfAda		National Institute of Technology Tiruchirappalli
+789		Logicals		Abes Engineering college, Ghaziabad
+790		bytecoder		JSS Academy of Technical Education, Noida
+791		panda3		Rajiv Gandhi University of Knowledge Technologies Basar
+792		Dangling Pointers		Sri Sivasubramaniya Nadar College of Engineering, Chennai
+793		GreyHats		Indian Institute of Engineering Science and Technology, Shibpur
+794		Counter_Errorists		Pimpri Chinchwad College of Engineering, Pune
+795		Bol_Bum		National Institute of Technology, Jamshedpur
+796		Illuminati0809		Jaypee University of Engineering and Technology, Guna
+797		CodeWarrior		Manipal Institute of Technology, Manipal
+798		apples		Vishwakarma Government Engineering College, Chandkheda
+799		deathstorm		National Institute of Technology Patna
+800		D-Coders		Govind Ballabh Pant Engineering College, Pauri Garhwal
+801		Insomaniac		National Institute of Technology, Jamshedpur
+802		maniAC		Indian Institute of Information Technology, Kalyani
+803		iostream		University Visvesvaraya College of Engineering, Bangalore
+804		Wolxaviers		Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
+805		firststep		Sardar Vallabhbhai National Institute of Technology, Surat
+806		HAWK_INSIGHTS		Kalinga Institute of Industrial Technology
+807		ma5ters		MBM College of Engineering, Jodhpur
+808		lol_da_boyzz		National Institute of Technology Tiruchirappalli
+809		Acube		University Institute of Engineering and Technology, Punjab University
+810		spiderman		Indian Institute of Technology Mandi
+811		AAAA		Abes Engineering college, Ghaziabad
+812		team_mbm		MBM College of Engineering, Jodhpur
+813		Callidus		Indian Institute of Engineering Science and Technology, Shibpur
+814		DKoderS		Anil Neerukonda Institute of Technology and Sciences
+815		THE_LONGEST_TEAM_NAME		Army Institute of Technology, Pune
+816		Innovex		Anil Neerukonda Institute of Technology and Sciences
+817		compleXity		Jamia Millia Islamia
+818		assault_code		National Institute of Technology Patna
+819		classy coders		Sardar Vallabhbhai National Institute of Technology, Surat
+820		codesters		SASTRA University
+821		KLU Coders		Koneru Lakshmaiah College of Engineering, Vijayawada, Vijayawada
+822		DarkArmy		Jaipur Engineering College and Research Centre
+823		TwinProgrammers		M. H. Saboo Siddik College of Engineering
+824		codemaster		Institute of Engineering &amp; Management, Kolkata
+825		rgcer_algo		Rajiv Gandhi College Of Engg And Research, Nagpur
+826		hacker16		Visvesvaraya National Institute of Technology, Nagpur
+827		IndoriZayka		Acropolis Institute of Technology &amp; Research, Indore
+828		AlgoFolks		Indian Institute of Information Technology, Sri City
+829		TeamElliot		National Institute of Technology Warangal
+830		SSCodies		Pimpri Chinchwad College of Engineering, Pune
+831		Dash		Malaviya National Institute of Technology, Jaipur
+832		Mr. Better		Indian Institute of Engineering Science and Technology, Shibpur
+833		canine		Sardar Vallabhbhai National Institute of Technology, Surat
+834		Coderazzi		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
+835		Lucifer		Jaypee University of Engineering and Technology, Guna
+836		Team Kaushal		Kalinga Institute of Industrial Technology
+837		harcourtians_coders		Harcourt Butler Technological Institute, Kanpur
+838		codevisioner		Maharaja Surajmal Institute of Technology
+839		brut4Cies		School of Engineering, Cochin University of Science and Technology
+840		BeyBladers		MBM College of Engineering, Jodhpur
+841		&amp;#039;Incognito Coders		International Institute of Information Technology, Bangalore
+842		alwayswannafly		Madras Institute of Technology, Anna University
+843		CodeBabes		National Institute of Technology, Hamirpur
+844		silentsharks		Institute of Engineering &amp; Technology, M.J.P. Rohilkhand University
+845		Godspeed		Punjab Engineering College, Chandigarh
+846		deadly_zombies		Indian Institute of Information Technology, Lucknow
+847		White Knights		Thapar University
+848		Rising Coders		Institute of Engineering &amp; Technology, M.J.P. Rohilkhand University
+849		The Sterling Marauders		Indian Institute of Technology, Palakkad
+850		ASH		Govind Ballabh Pant Engineering College, Pauri Garhwal
+851		Always Blue		Manipal Institute of Technology, Manipal
+852		dosomething		National Institute of Technology, Hamirpur
+853		HalfFry		Gautam Buddha University, Greater Noida
+854		GREEN BUILDERS		Sree Vidyanikethan Engineering College
+855		Coding_Saints		Chandigarh University
+856		greedy is good		Manipal Institute of Technology, Manipal
+857		Reserve		ACM ICPC 2016
+858		DarkWizards		Jabalpur Engineering College, Jabalpur
+859		coders#21		JK Institute of Applied Physics and Technology,University of Allahabad
+860		XTREMIS		National Institute of Technology Raipur
+861		3.0		ABV - Indian Institute of Information Technology and Management Gwalior
+862		MSS		Techno India Salt Lake
+863		noobsters		Amrita School of Engineering, Bengaluru
+864		ACM IIITK 2086		Indian Institute of Information Technology, Kalyani
+865		techHunders		Jabalpur Engineering College, Jabalpur
+866		BufferingEngineers		M. H. Saboo Siddik College of Engineering
+867		HASHTAG		Amrita School of Engineering, Coimbatore
+868		Swaggers		Walchand College of Engineering, Sangli
+869		404_Error		Army Institute of Technology, Pune
+870		VSSUT_Pride9		Veer Surendra Sai University of Technology, Orissa
+871		VSSUT_Pride5		Veer Surendra Sai University of Technology, Orissa
+872		LNMIITcodes		The LNM Institute of Information Technology, Jaipur
+873		Hitian Codiacs		Madhav Institute of Technology and Science, Gwalior
+874		born_coders		Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
+875		code_vishnu		Guru Ghasidas University, Bilaspur
+876		kietians		Krishna Institute of Engineering and Technology
+877		Gunda_Raj		Institute of Engineering and Technology, Devi Ahilya Vishwavidyalaya
+878		AlphaMikeFoxtrot		Amrita School of Engineering, Coimbatore
+879		Uietcoderz		University Institute of Engineering and Technology, Punjab University
+880		nullpointers		Birla Institute of Technology, Patna
+881		dirty_coders112523		School of Engineering, Cochin University of Science and Technology
+882		Atomic		Guru Ghasidas University, Bilaspur
+883		CodeForFood		Vidyalankar Institute of Technology
+884		CFreaks		Pimpri Chinchwad College of Engineering, Pune
+885		Rogue		Sardar Vallabhbhai National Institute of Technology, Surat
+886		The ScripterSyndicate		International Institute of Information Technology, Bangalore
+887		Akatsuki		Shri Mata Vaishno Devi University
+888		Sprinters		National Institute of Technology Silchar
+889		Hmmm		Pimpri Chinchwad College of Engineering, Pune
+890		CURIENCE		YMCA University of Science and Technology, Faridabad
+891		CodeGeeks_NITH		National Institute of Technology, Hamirpur
+892		B0rn2C0de		Shri Mata Vaishno Devi University
+893		Mr.Robot		Maharaja Agrasen Institute Of Technology, Baddi, Himachal Pradesh
+894		TU_CODERS		Thapar University
+895		Spades		National Institute of Technology Raipur
+896		3ACs		Sardar Patel Institute Of Technology, Mumbai
+897		Constant Vigilance		Vivekanand Education Society's Institute of Technology
+898		CodeGeeks		International Institute of Information Technology, Bangalore
+899		Reserve		ACM ICPC 2016
+900		Dead Skulls		Amrita School of Engineering, Bengaluru
+901		Sbuddies		Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
+902		CRCECoders		Fr. Conceicao Rodrigues College of Engineering, Bandra
+903		EvilCorp		Techno India Salt Lake
+904		FuzzyLogic		Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
+905		NullPointerException		Vellore Institute of Technology, Vellore
+906		Falcon2K		University Institute of Engineering and Technology, Punjab University
+907		&amp;lt;code/breakers&amp;gt;		M. H. Saboo Siddik College of Engineering
+908		Spirit		National Institute of Technology Patna
+909		Charizards		University Institute of Engineering and Technology, Punjab University
+910		Code Invaders		Indian Institute of Information Technology, Sri City
+911		Shitty_Coders		Sarvajanik College of Engineering and Technology, Gujarat
+912		nitk_2ndyear		National Institute of Technology, Kurukshetra
+913		HackathonRockers		SASTRA University
+914		BITS_SAY		Sardar Vallabhbhai National Institute of Technology, Surat
+915		codensv		Visvesvaraya National Institute of Technology, Nagpur
+916		Mystic Coders		Amrita School of Engineering, Coimbatore
+917		aspm		Bharati Vidyapeeth's College of Engineering, New Delhi
+918		Black_Coder		National Institute of Technology Silchar
+919		niecc_coders		The National Institute of Engineering, Mysore
+920		The Errorists		SASTRA University
+921		TriBytes		Indira Gandhi Delhi Technical University for Women
+922		C+Plus		Shiv Nadar University, Chithera
+923		Backfire		Indian Institute of Technology Ropar
+924		alienage		Institute of Technology, Nirma University
+925		noob_alliance		University of Petroleum and Energy Studies, Dehradun
+926		Reserve		ACM ICPC 2016
+927		CODE COMMANDERS		Jabalpur Engineering College, Jabalpur
+928		UCEVcoders		Jawaharlal Nehru Technological University, Vizianagaram
+929		Coderavens		Institute of Technology, Nirma University
+930		Brogrammers!		School of Engineering and Applied Science, Ahmedabad University
+931		merak		Sarvajanik College of Engineering and Technology, Gujarat
+932		codekiller		Indian Institute of Information Technology, Design and Manufacturing, Jabalpur
+933		RCOEM-CSE		Shri Ramdeobaba College of Engineering and Management, Nagpur
+934		mighty_believer		Indian Institute of Information Technology, Lucknow
+935		Free Authority		Jamia Millia Islamia
+936		Tech3coders		Sri Sivasubramaniya Nadar College of Engineering, Chennai
+937		SystemShock		Amrita School of Arts and Sciences, Mysore
+938		Half-bloods		Amrita School of Engineering, Coimbatore
+939		C--		Thapar University
+940		ThinkTank		Vivekanand Education Society's Institute of Technology
+941		CodeMagic		Swami Keshvanand Institute of Technology Management &amp; Gramothan
+942		Anp		Dharmsinh Desai Institute of Technology
+943		3 Acces		Abes Engineering college, Ghaziabad
+944		Nexus		Deenbandhu Chhotu Ram University of Science and Technology, Murthal
+945		Schr&amp;Atilde;&amp;para;dinger&amp;#039;s Cats		Amrita School of Engineering, Coimbatore
+946		BackBenchers		Shri Mata Vaishno Devi University
+947		LIFOLovers		The LNM Institute of Information Technology, Jaipur
+948		SimpleMinds		School of Engineering, Cochin University of Science and Technology
+949		B00LEAN		College of Engineering, Pune
+950		Coders		Bharati Vidyapeeth's College of Engineering, New Delhi
+951		Reserve		ACM ICPC 2016
+952		vostok		MBM College of Engineering, Jodhpur
+953		ProgrammingPythons		SASTRA University
+954		conjurers		Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad
+955		heathens		Indian Institute of Technology Patna
+956		Need_for_run		National Institute of Technology Patna
+957		AAAJ		Abes Engineering college, Ghaziabad
+958		slowcoders		University School of Information Technology
+959		Reserve		ACM ICPC 2016
+960		Codoholic		National Institute of Technology Agartala
+961		Bit-Coders		Jamia Millia Islamia
+962		Avengers		Institute of Engineering and Technology, Devi Ahilya Vishwavidyalaya
+963		NBITS		B. P. Poddar Institute of Management &amp; Technology
+964		dekster		Sarvajanik College of Engineering and Technology, Gujarat
+965		Phoenix-kct		Kumaraguru College of Technology, Coimbatore
+966		HACKJACKERS		VNR Vignana Jyothi Institute of Engineering &amp; Technology
+967		Aria		Maharaja Surajmal Institute of Technology
+968		c0desketeers		Chaitanya Bharathi Institute of Technology
+969		Einsteam		Institute of Engineering &amp; Technology, M.J.P. Rohilkhand University
+970		BombSquad		Veermata Jijabai Technological Institute, Mumbai
+971		CSE-RCOEM-3rdYear		Shri Ramdeobaba College of Engineering and Management, Nagpur
+972		Reserve		ACM ICPC 2016
+973		CoolHackers		Amrita School of Engineering, Amritapuri
+974		coder_trio		University Institute of Engineering and Technology, Punjab University
+975		Infinity1729		Anil Neerukonda Institute of Technology and Sciences
+976		1||0		Galgotias College of Engineering and Technology
+977		Fault in our Program		Bannari Amman Institute of Technology
+978		Dangling Ptr		MBM College of Engineering, Jodhpur
+979		Peculiars		Vidyalankar Institute of Technology
+980		sAssasins		National Institute of Technology Agartala
+981		DAV		National Institute of Technology Raipur
+982		Turing Knights		Pimpri Chinchwad College of Engineering, Pune
+983		Xtremehacks		School of Engineering, Cochin University of Science and Technology
+984		Reserve		ACM ICPC 2016
+985		DECODERZ		Anil Neerukonda Institute of Technology and Sciences
+986		Noobie		Vellore Institute of Technology, Vellore
+987		LJS		Indian Institute of Technology, Palakkad
+988		ThreeMultiplexer		Dharmsinh Desai Institute of Technology
+989		Dreamers		National Institute of Technology Patna
+990		Reserve		ACM ICPC 2016
+991		Reserve		ACM ICPC 2016
+992		STORM RIDERS		Thiagarajar College of Engineering
+993		ExcalibuR		Amrita School of Engineering, Bengaluru
+994		pointers		Anil Neerukonda Institute of Technology and Sciences
+995		sudoManiac		M. H. Saboo Siddik College of Engineering
+996		coders96		Maharaja Agrasen Institute Of Technology, Baddi, Himachal Pradesh
+997		Akatsuki		National Institute of Technology Raipur
+998		hunters123		VNR Vignana Jyothi Institute of Engineering &amp; Technology
+999		ReturnZero		Pune Institute of Computer Technology
+1000		Coding Saiyans		School of Engineering and Applied Science, Ahmedabad University
+1001		CppNewbies		Amrita School of Engineering, Coimbatore
+1002		CodeForces		Punjab Engineering College, Chandigarh
+1003		Reserve		ACM ICPC 2016
+1004		Code Blasters		Visvesvaraya National Institute of Technology, Nagpur
+1005		TechGeeks		Amrita School of Arts and Sciences, Mysore
+1006		VSSUT_Pride3		Veer Surendra Sai University of Technology, Orissa
+1007		Stoners		Jaypee University of Engineering and Technology, Guna
+1008		code busters		Maharaja Surajmal Institute of Technology
+1009		sss		Thapar University
+1010		Hack3		Abes Engineering college, Ghaziabad
+1011		FooBar Fighters		Institute of Technology, Nirma University
+1012		GodsAround		Amrita School of Arts and Sciences, Mysore
+1013		Ternary operators		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
+1014		codingphobia		University Institute of Engineering and Technology, Punjab University
+1015		mystiko		Maharaja Agrasen Institute Of Technology, Baddi, Himachal Pradesh
+1016		Rocking geeks		University Institute of Engineering and Technology, Punjab University
+1017		destructors		Amrita School of Engineering, Bengaluru
+1018		Code Crakers		Sree Vidyanikethan Engineering College
+1019		Code Fire		Anil Neerukonda Institute of Technology and Sciences
+1020		gravity		MBM College of Engineering, Jodhpur
+1021		InfinityCoders		Amrita School of Arts and Sciences, Mysore
+1022		Iterators		Institute of Technology, Nirma University
+1023		Inglorious_Titans		Walchand College of Engineering, Sangli
+1024		Inception1		Pimpri Chinchwad College of Engineering, Pune
+1025		TheDarkCode		University Institute of Engineering and Technology, Punjab University
+1026		AU_codeinfinity		School of Engineering and Applied Science, Ahmedabad University
+1027		Geekalots		Amrita School of Engineering, Bengaluru
+1028		CodeHackers		Abes Engineering college, Ghaziabad
+1029		rsvcoders		Jawaharlal Nehru Technological University, Vizianagaram
+1030		one&amp;amp;zero		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
+1031		Dynamic coders		YMCA University of Science and Technology, Faridabad
+1032		VSSUT_Pride7		Veer Surendra Sai University of Technology, Orissa
+1033		Spaghetti_Coders		Shiv Nadar University, Chithera
+1034		Team Audacious		Madhav Institute of Technology and Science, Gwalior
+1035		pinnacle@001		National Institute of Technology Agartala
+1036		codesCOUTs		Jawaharlal Nehru Technological University, Vizianagaram
+1037		shark attack		VNR Vignana Jyothi Institute of Engineering &amp; Technology
+1038		VSSUT_coding_maniac		Veer Surendra Sai University of Technology, Orissa
+1039		bits_please		National Institute of Technology Tiruchirappalli
+1040		a27		Shiv Nadar University, Chithera
+1041		DILLIGENT DAZZLERS		Sree Vidyanikethan Engineering College
+1042		Microprocessor_x69		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
+1043		WE MAKE IT SIMPLE		Sree Vidyanikethan Engineering College
+1044		djikstras		CMR College of Engineering &amp; Technology, Hyderabad
+1045		The Nexus		Abes Engineering college, Ghaziabad
+1046		CODERS OF VESIT		Vivekanand Education Society's Institute of Technology
+1047		Echelon		Maharaja Agrasen Institute Of Technology, Baddi, Himachal Pradesh
+1048		baymax		Rajiv Gandhi University of Knowledge Technologies Basar
+1049		Ninjas		Walchand College of Engineering, Sangli
+1050		mayvard		L D College Of Engineering, Ahmedabad
+1051		potent		Amrita School of Engineering, Coimbatore
+1052		3Bongs		Indian Institute of Science, Bangalore
+1053		Anonymous		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
+1054		3shinigami		Yeshwantrao Chavan College of Engineering College, Nagpur
+1055		NautilusX		Indian Institute of Science, Bangalore
+1056		Next Gen Coders		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
+1057		codethapar		Thapar University
+1058		DC		Amrita School of Engineering, Coimbatore
+1059		mystica_x		Chaitanya Bharathi Institute of Technology
+1060		HodorHodor		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
+1061		Krimiti		K. J. Somaiya College of Engineering Vidyanagar, Vidyavihar, Mumbai
+1062		ANITS_CODEFREAKS		Anil Neerukonda Institute of Technology and Sciences
+1063		geekgods		Shiv Nadar University, Chithera
+1064		Bhoomi		University Visvesvaraya College of Engineering, Bangalore
+1065		VSSUT_Pride2		Veer Surendra Sai University of Technology, Orissa
+1066		The Brainiacs		National Institute of Technology Raipur
+1067		DIVIDE BY ZERO		Amrita University
+1068		dCoders		Sree Vidyanikethan Engineering College
+1069		pwr_puff_galz		Amrita School of Engineering, Coimbatore
+1070		Backslash		Indian Institute of Information Technology Design &amp; Manufacturing, Kancheepuram
+1071		RAN_coders		Chandigarh University
+1072		Mega_Coder$		MBM College of Engineering, Jodhpur
+1073		FunCoders		Anil Neerukonda Institute of Technology and Sciences
+1074		Endeavour_SSP		Abes Engineering college, Ghaziabad
+1075		coding freaks		Amrita University
+1076		Codologists		Shiv Nadar University, Chithera
+1077		Coding_penguins		Lovely Professional University
+1078		!NULL		Abes Engineering college, Ghaziabad
+1079		SemiColon		Pimpri Chinchwad College of Engineering, Pune
+1080		Code Pandas		Mukesh Patel School of Technology Management &amp; Engineering
+1081		Print(str(programmers))		Amrita School of Engineering, Amritapuri
+1082		Big O&amp;#039;s		Dehradun Institute of Technology
+1083		CodersAID		Mukesh Patel School of Technology Management &amp; Engineering
+1084		LPU NOOBS		Lovely Professional University
+1085		bitzkrieg		Dwarkadas Jivanlal Sanghvi College of Engineering, Vile Parle, Mumbai
+1086		Debuggersfast		Abes Engineering college, Ghaziabad
+1087		JSR		Galgotias College of Engineering and Technology
+1088		The Dothrookies		Amrita School of Engineering, Bengaluru
+1089		sapphire		Anil Neerukonda Institute of Technology and Sciences
+1090		Thrones		Jaypee University of Engineering and Technology, Guna
+1091		codewithpassion		School of Engineering, Cochin University of Science and Technology
+1092		HackerZ		VNR Vignana Jyothi Institute of Engineering &amp; Technology
+1093		Bit hackers		Vignan University
+1094		coolhunt		Jaipur Engineering College and Research Centre
+1095		CODE RANGERS		Anil Neerukonda Institute of Technology and Sciences
+1096		VSSUT_Cyphed		Veer Surendra Sai University of Technology, Orissa
+1097		UIET_RISERS		University Institute of Engineering and Technology, Punjab University
+1098		M2B		RVS College of Arts and Science, Sulur, Coimbatore
+1099		penseurs		Jawaharlal Nehru Technological University, Vizianagaram
+1100		intense3		VNR Vignana Jyothi Institute of Engineering &amp; Technology
+1101		fosscoders		Amrita School of Engineering, Amritapuri
+1102		Codesteins		Dwarkadas Jivanlal Sanghvi College of Engineering, Vile Parle, Mumbai
+1103		Rangers		Pimpri Chinchwad College of Engineering, Pune
+1104		Room-31		Amrita School of Engineering, Amritapuri
+1105		InFiNiTe LoOp		Dwarkadas Jivanlal Sanghvi College of Engineering, Vile Parle, Mumbai
+1106		codereavers		Northern India Engineering College, New Delhi
+1107		bro_code		Vishwakarma Government Engineering College, Chandkheda
+1108		expandables		CMR College of Engineering &amp; Technology, Hyderabad
+1109		A_V_S		Veermata Jijabai Technological Institute, Mumbai
+1110		CSEGYAN1		L.B.S. College of Engineering, Kasaragod
+1111		Charmander		Thiagarajar College of Engineering
+1112		Codebeans		Sri Sivasubramaniya Nadar College of Engineering, Chennai
+1113		Carpe Diem		Manipal University Jaipur
+1114		unknown_hosts		Amrita School of Engineering, Amritapuri
+1115		Knights		Pimpri Chinchwad College of Engineering, Pune
+1116		TechProMinds		Dwarkadas Jivanlal Sanghvi College of Engineering, Vile Parle, Mumbai
+1117		Exclaimers		KC College of Engineering, Thane 
+1118		DreamInCode		Sree Vidyanikethan Engineering College
+1119		ProCoders		Indira Gandhi Delhi Technical University for Women
+1120		code_geekz		Anil Neerukonda Institute of Technology and Sciences
+1121		Noob Brigade		Manipal University Jaipur
+1122		VIVID		HMR Institute of Technology and Management , New Delhi
+1123		STS Coders		Vivekanand Education Society's Institute of Technology
+1124		Code Challengers		Sree Vidyanikethan Engineering College
+1125		Not Interested		Amrita School of Engineering, Bengaluru
+1126		TriCoders		Amrita School of Arts and Sciences, Mysore
+1127		Cynosure		Pimpri Chinchwad College of Engineering, Pune
+1128		DKoderz		Amrita School of Arts and Sciences, Mysore
+1129		Siravian		Bharati Vidyapeeth's College of Engineering, New Delhi
+1130		Lightsout		CMR College of Engineering &amp; Technology, Hyderabad
+1131		cbit-ith1Boys		Chaitanya Bharathi Institute of Technology
+1132		WeWill		Shri Ramdeobaba College of Engineering and Management, Nagpur
+1133		codemessy		Manakula Vinayagar Institute of Technology, Puducherry
+1134		codeziners		CMR College of Engineering &amp; Technology, Hyderabad
+1135		VESIT_IT_1		Vivekanand Education Society's Institute of Technology
+1136		Shield Brothers		RVS College of Arts and Science, Sulur, Coimbatore
+1137		GENXCODERS		HMR Institute of Technology and Management , New Delhi
+1138		BAN anonymous		Amrita School of Engineering, Bengaluru
+1139		#include&amp;lt;ciphers&amp;gt;		Amrita School of Engineering, Bengaluru
+1140		codebit		Maharaja Surajmal Institute of Technology
+1141		SaveYourSoul		Thapar University
+1142		warriors		Dwarkadas Jivanlal Sanghvi College of Engineering, Vile Parle, Mumbai
+1143		CODE D CODERS		Sree Vidyanikethan Engineering College
+1144		Fourteam		Amrita University
+1145		codeitup		Mukesh Patel School of Technology Management &amp; Engineering
+1146		CSEGYAN2		L.B.S. College of Engineering, Kasaragod
+1147		VSSUT_Pride1		Veer Surendra Sai University of Technology, Orissa
+1148		Codediva		Indira Gandhi Delhi Technical University for Women
+1149		Code_Trinity		Sree Vidyanikethan Engineering College
